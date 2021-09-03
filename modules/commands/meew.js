@@ -4,8 +4,8 @@
 */
 
 const url = 'https://raw.githubusercontent.com/manhkhac/mirai-1.2.8/main/repoG.json';
-const evtUrl = 'https://raw.githubusercontent.com/ProCoderMew/Module-Miraiv2/Mew/modules/events/{name}.js';
-const cmdUrl = 'https://raw.githubusercontent.com/ProCoderMew/Module-Miraiv2/Mew/modules/commands/{name}.js';
+const evtUrl = 'https://raw.githubusercontent.com/manhkhac/modules-v2-share/master/modules/events/{name}.js';
+const cmdUrl = 'https://raw.githubusercontent.com/manhkhac/modules-v2-share/master/modules/commands/{name}.js';
 
 module.exports.config = {
     name: 'meew',
