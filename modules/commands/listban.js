@@ -1,0 +1,69 @@
+function _0xbaaf(){var _0x441949=['listban','(ManhG\x20mod','cess★★\x0a\x0a','i\x20dùng','er]','type','config','«\x0a\x0a\x20','threadID','n\x20để\x20có\x20th','messageID','1.0.3','634857jFFxiZ','\x20sử\x20dụng\x20b','ã\x20được\x20Gỡ\x20','c\x20của\x20ngườ','BTSUu','data','author','exports','\x20của\x20bạn\x20đ','senderID','age','reason','a\x20nhóm\x20hoặ','6qdOOac','delete','dxyKQ','\x20được\x20bot\x20','UserID','getNameUse','admin','slice','5416028RDYqKa','43677KgFmaF','CatalizCS\x20','unbanuser','Được\x20Gỡ\x20Ba','handleRepl','body','29333439hMClnc','CymWP','unbanthrea','banned','\x20\x0a\x0aBạn\x20Đã\x20','getCurrent','dateAdded','\x20từ\x20Admin\x20','userBanned','listBanned','threadBann','unsendMess','[thread/us','kWbSn','«\x0a\x0a-Nhóm\x20','iờ','replace','ể\x20tiếp\x20tục','700400WuvjOy','hể\x20sử\x20dụng','sendMessag','ngay\x20bây\x20g','Ban\x0a\x0a-Có\x20t','ách\x20ban\x20củ','Xem\x20danh\x20s','98TwQCQa','★★UnbanSuc','GbwRP','»Thông\x20báo','getData','3175490catUhi','1543910pQZCgN','setData'];_0xbaaf=function(){return _0x441949;};return _0xbaaf();}function _0x3628(_0x41b917,_0x3eb089){var _0x2eb292=_0xbaaf();return _0x3628=function(_0x555494,_0x27f6ba){_0x555494=_0x555494-(-0x1242+-0xf6*-0x1b+-0x6c7);var _0x37727a=_0x2eb292[_0x555494];return _0x37727a;},_0x3628(_0x41b917,_0x3eb089);}var _0x289516=_0x3628;(function(_0x4f2744,_0x30bd60){var _0xf15e03=_0x3628,_0xc6f531=_0x4f2744();while(!![]){try{var _0x2e7a88=-parseInt(_0xf15e03(0xf8))/(-0x1*0xe04+0x110a+0x305*-0x1)+-parseInt(_0xf15e03(0xe9))/(-0xc75+-0x1b0a*0x1+0x1*0x2781)+parseInt(_0xf15e03(0x10e))/(-0x17*-0x8c+-0x1352+-0x85*-0xd)+parseInt(_0xf15e03(0x10d))/(0x1*0x16c2+-0x1d7b+0x6bd)+-parseInt(_0xf15e03(0xea))/(0x2ba+-0x2303+0x204e)*(parseInt(_0xf15e03(0x105))/(-0x1b07+0x14e+-0x19bf*-0x1))+-parseInt(_0xf15e03(0x12d))/(0x21a+0x331+0x544*-0x1)*(parseInt(_0xf15e03(0x126))/(-0x1cd*-0x5+0x17a1*0x1+-0x6b*0x4e))+parseInt(_0xf15e03(0x114))/(0x2*-0x12a0+0x1ab4+0xa95);if(_0x2e7a88===_0x30bd60)break;else _0xc6f531['push'](_0xc6f531['shift']());}catch(_0x1c355e){_0xc6f531['push'](_0xc6f531['shift']());}}}(_0xbaaf,-0x2*0x8e835+0x9fe9a+0x151b31),module[_0x289516(0xff)][_0x289516(0xf2)]={'name':_0x289516(0xec),'version':_0x289516(0xf7),'hasPermssion':0x2,'credits':_0x289516(0x10f)+_0x289516(0xed)+')','description':_0x289516(0x12c)+_0x289516(0x12b)+_0x289516(0x104)+_0x289516(0xfb)+_0x289516(0xef),'commandCategory':_0x289516(0x10b),'usages':_0x289516(0x120)+_0x289516(0xf0),'cooldowns':0x5},module[_0x289516(0xff)][_0x289516(0x112)+'y']=async function({api:_0x19d6ee,args:_0x327bf5,Users:_0x54c7c2,handleReply:_0x576188,event:_0x3c3336,Threads:_0x1c17bf}){var _0xc7a5c7=_0x289516,_0x2a012c={'dxyKQ':function(_0x23c414,_0x3c1e1d){return _0x23c414!==_0x3c1e1d;},'GbwRP':function(_0x312858,_0x305d0a){return _0x312858(_0x305d0a);},'kWbSn':function(_0x2169f3,_0x4d9e7d){return _0x2169f3-_0x4d9e7d;},'CymWP':_0xc7a5c7(0x116)+'d','BTSUu':_0xc7a5c7(0x110)};const {threadID:_0x1c363b,messageID:_0x174b99}=_0x3c3336;let _0xe749b1=await _0x54c7c2[_0xc7a5c7(0x10a)+'r'](_0x3c3336[_0xc7a5c7(0x101)]);if(_0x2a012c[_0xc7a5c7(0x107)](_0x2a012c[_0xc7a5c7(0x12f)](parseInt,_0x3c3336[_0xc7a5c7(0x101)]),_0x2a012c[_0xc7a5c7(0x12f)](parseInt,_0x576188[_0xc7a5c7(0xfe)])))return;var _0x3a1598=_0x576188[_0xc7a5c7(0x11d)][_0x2a012c[_0xc7a5c7(0x121)](_0x3c3336[_0xc7a5c7(0x113)],-0xe07+-0x1*-0x22d5+-0x14cd)];let _0x5c0aad=_0x3a1598[_0xc7a5c7(0x10c)](-0x885+0x4*-0x994+0x2ed7);var _0x3a9042=_0x3a1598[_0xc7a5c7(0x124)](/\D/g,''),_0x525ab4=_0x3a9042[_0xc7a5c7(0x10c)](0x23ef+-0x48d+-0x1f61);switch(_0x576188[_0xc7a5c7(0xf1)]){case _0x2a012c[_0xc7a5c7(0x115)]:{const _0x552966=(await _0x1c17bf[_0xc7a5c7(0x131)](_0x525ab4))[_0xc7a5c7(0xfd)]||{};return _0x552966[_0xc7a5c7(0x117)]=0x6d*-0x1f+0x3*-0xb58+-0x2f3b*-0x1,_0x552966[_0xc7a5c7(0x103)]=null,_0x552966[_0xc7a5c7(0x11a)]=null,await _0x1c17bf[_0xc7a5c7(0xeb)](_0x525ab4,{'data':_0x552966}),global[_0xc7a5c7(0xfd)][_0xc7a5c7(0x11e)+'ed'][_0xc7a5c7(0x106)](_0x525ab4,0x5*0x2b7+-0x1*-0xe08+-0x1b9a*0x1),_0x19d6ee[_0xc7a5c7(0x128)+'e'](_0xc7a5c7(0x130)+_0xc7a5c7(0x11b)+_0xe749b1+_0xc7a5c7(0x122)+_0x5c0aad+(_0xc7a5c7(0x100)+_0xc7a5c7(0xfa)+_0xc7a5c7(0x12a)+_0xc7a5c7(0x127)+_0xc7a5c7(0x108)+_0xc7a5c7(0x129)+_0xc7a5c7(0x123)),_0x525ab4,()=>_0x19d6ee[_0xc7a5c7(0x128)+'e'](''+_0x19d6ee[_0xc7a5c7(0x119)+_0xc7a5c7(0x109)](),()=>_0x19d6ee[_0xc7a5c7(0x128)+'e'](_0xc7a5c7(0x12e)+_0xc7a5c7(0xee)+_0x3a1598,_0x3c3336[_0xc7a5c7(0xf4)],()=>_0x19d6ee[_0xc7a5c7(0x11f)+_0xc7a5c7(0x102)](_0x576188[_0xc7a5c7(0xf6)]))));}case _0x2a012c[_0xc7a5c7(0xfc)]:{const _0x56f463=(await _0x54c7c2[_0xc7a5c7(0x131)](_0x525ab4))[_0xc7a5c7(0xfd)]||{};return _0x56f463[_0xc7a5c7(0x117)]=0x1f5d+-0x445*0x2+-0x16d3,_0x56f463[_0xc7a5c7(0x103)]=null,_0x56f463[_0xc7a5c7(0x11a)]=null,await _0x54c7c2[_0xc7a5c7(0xeb)](_0x525ab4,{'data':_0x56f463}),global[_0xc7a5c7(0xfd)][_0xc7a5c7(0x11c)][_0xc7a5c7(0x106)](_0x525ab4,0x138b+0x24b+-0x15d5),_0x19d6ee[_0xc7a5c7(0x128)+'e'](_0xc7a5c7(0x130)+_0xc7a5c7(0x11b)+_0xe749b1+_0xc7a5c7(0xf3)+_0x5c0aad+(_0xc7a5c7(0x118)+_0xc7a5c7(0x111)+_0xc7a5c7(0xf5)+_0xc7a5c7(0x125)+_0xc7a5c7(0xf9)+'ot'),_0x525ab4,()=>_0x19d6ee[_0xc7a5c7(0x128)+'e'](''+_0x19d6ee[_0xc7a5c7(0x119)+_0xc7a5c7(0x109)](),()=>_0x19d6ee[_0xc7a5c7(0x128)+'e'](_0xc7a5c7(0x12e)+_0xc7a5c7(0xee)+_0x3a1598,_0x3c3336[_0xc7a5c7(0xf4)],()=>_0x19d6ee[_0xc7a5c7(0x11f)+_0xc7a5c7(0x102)](_0x576188[_0xc7a5c7(0xf6)]))));}}});
+  
+module.exports.run = async function ({ event, api, Users, args, Threads }) {
+    const { threadID, messageID } = event;
+    var listBanned = [],
+      i = 1;
+    var dataThread = [];
+  
+    switch (args[0]) {
+      case "-t":
+      case "t":
+      case "thread":
+        {
+          const threadBanned = global.data.threadBanned.keys();
+          console.log(threadBanned)
+          for (const singleThread of threadBanned) {
+            dataThread = await Threads.getData(singleThread);
+            let threadInfo = dataThread.threadInfo;
+            let nameT = threadInfo.threadName;
+            console.log(nameT)
+            listBanned.push(`${i++}. ${nameT} \n🔰TID: ${singleThread}`)
+          };
+  
+          return api.sendMessage(listBanned.length != 0 ? api.sendMessage(`❎Hiện tại đang có ${listBanned.length} nhóm bị ban\n\n${listBanned.join("\n")}` +
+            "\n\nReply tin nhắn này + số thứ tự để unban thread tương ứng",
+            threadID, (error, info) => {
+              client.handleReply.push({
+                name: this.config.name,
+                messageID: info.messageID,
+                author: event.senderID,
+                type: 'unbanthread',
+                listBanned
+              });
+            },
+            messageID
+          ) : "Hiện tại không có nhóm nào bị ban!", threadID, messageID);
+        }
+  
+      case "u":
+      case "-u":
+      case "user":
+        {
+          const userBanned = global.data.userBanned.keys();
+          //console.log(userBanned)
+          for (const singleUser of userBanned) {
+            const name = global.data.userName.get(singleUser) || await Users.getNameUser(singleUser);
+            listBanned.push(`${i++}. ${name} \n🔰UID: ${singleUser}`);
+          }
+          return api.sendMessage(listBanned.length != 0 ? api.sendMessage(`❎Hiện tại đang có ${listBanned.length} người dùng bị ban\n\n${listBanned.join("\n")}` +
+            "\n\nReply tin nhắn này + số thứ tự để unban user tương ứng",
+            threadID, (error, info) => {
+              global.client.handleReply.push({
+                name: this.config.name,
+                messageID: info.messageID,
+                author: event.senderID,
+                type: 'unbanuser',
+                listBanned
+              });
+            },
+            messageID
+          ) : "Hiện tại không có người dùng bị ban", threadID, messageID);
+        }
+  
+      default:
+        {
+          return global.utils.throwError(this.config.name, threadID, messageID);
+        }
+    }
+  }
