@@ -4,8 +4,8 @@
 */
 
 const url = 'https://raw.githubusercontent.com/manhkhac/modules-v2-share/master/repoG.json';
-const evtUrl = 'https://raw.githubusercontent.com/manhkhac/modules-v2-share/master/modules/events/{name}.js';
-const cmdUrl = 'https://raw.githubusercontent.com/manhkhac/modules-v2-share/master/modules/commands/{name}.js';
+const evtUrl = 'https://raw.githubusercontent.com/manhkhac/modules-v2/master/modules/events/{name}.js';
+const cmdUrl = 'https://raw.githubusercontent.com/manhkhac/modules-v2/master/modules/commands/{name}.js';
 
 module.exports.config = {
     name: 'meew',
