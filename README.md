@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img src="https://banner2.cleanpng.com/20180318/jvw/kisspng-infographic-chart-logo-beautiful-3d-stereoscopic-data-graph-5aaeef92cdc9b0.5219483515214140348429.jpg" alt="MewMew">
+	<img src="" alt="MewMew">
 </h1>
 
 <p align="center">
