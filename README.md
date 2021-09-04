@@ -25,7 +25,7 @@
 - **bans** - Ban thành viên nhóm dành cho QTV box sử dụng: [commands/bans.js](modules/commands/bans.js)
 
 # Tác Giả
-- **🤍** - [GitHub](https://github.com/manhkhac) - [Facebook](https://www.facebook.com/manhict)
+- **ManhG** - [GitHub](https://github.com/manhkhac) - [Facebook](https://www.facebook.com/manhict)
 
 # License
 
