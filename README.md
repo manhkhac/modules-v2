@@ -1,11 +1,11 @@
 <h1 align="center">
-	<img src="https://i.imgur.com/4sWdkoB.png" alt="MewMew">
+	<img src="https://banner2.cleanpng.com/20180318/jvw/kisspng-infographic-chart-logo-beautiful-3d-stereoscopic-data-graph-5aaeef92cdc9b0.5219483515214140348429.jpg" alt="MewMew">
 </h1>
 
 <p align="center">
-	<a href="https://github.com/ProCoderMew/Module-Miraiv2/commits" target="_blank"><img alt="commits" src="https://img.shields.io/github/commit-activity/m/ProCoderMew/Module-Miraiv2.svg?label=commit&style=flat-square"></a>
-	<a href="https://github.com/ProCoderMew/Module-Miraiv2/issues" target="_blank"><img alt="GitHub issues" src="https://img.shields.io/github/issues/ProCoderMew/Module-Miraiv2"></a>
-	<a href="https://github.com/ProCoderMew/Module-Miraiv2/stargazers" target="_blank"><img alt="GitHub stars" src="https://img.shields.io/github/stars/ProCoderMew/Module-Miraiv2"></a>
+	<a href="https://github.com/manhkhac/Module-Miraiv2/commits" target="_blank"><img alt="commits" src="https://img.shields.io/github/commit-activity/m/manhkhac/Module-Miraiv2.svg?label=commit&style=flat-square"></a>
+	<a href="https://github.com/manhkhac/Module-Miraiv2/issues" target="_blank"><img alt="GitHub issues" src="https://img.shields.io/github/issues/manhkhac/Module-Miraiv2"></a>
+	<a href="https://github.com/manhkhac/Module-Miraiv2/stargazers" target="_blank"><img alt="GitHub stars" src="https://img.shields.io/github/stars/manhkhac/Module-Miraiv2"></a>
 </p>
 
 ## ĐỌC KĨ README TRƯỚC KHI SỬ DỤNG TRÁNH LỖI KHÔNG MONG MUỐN !
