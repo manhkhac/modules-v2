@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img src="" alt="MewMew">
+	<img src="" alt="">
 </h1>
 
 <p align="center">
