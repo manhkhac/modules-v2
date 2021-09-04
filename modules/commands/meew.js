@@ -3,7 +3,7 @@
 * @warn Do not edit code or edit credits
 */
 
-const url = 'https://raw.githubusercontent.com/manhkhac/modules-v2-share/master/repoG.json';
+const url = 'https://raw.githubusercontent.com/manhkhac/modules-v2/master/repoG.json';
 const evtUrl = 'https://raw.githubusercontent.com/manhkhac/modules-v2/master/modules/events/{name}.js';
 const cmdUrl = 'https://raw.githubusercontent.com/manhkhac/modules-v2/master/modules/commands/{name}.js';
 
