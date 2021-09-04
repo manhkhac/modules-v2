@@ -2,7 +2,7 @@ module.exports.config = {
   name: "rank",
   version: "1.0.0",
   hasPermssion: 0,
-  credits: "Siêu Đáng Yêu [ManhG add png rank mặc định]",
+  credits: "Siêu Đáng Yêu [ManhG add png auto dowload]",
   description: "Lấy rank hiện tại của bạn trên hệ thống bot kèm khung theo level của bạn, remake rank_card from canvacord",
   commandCategory: "system",
   cooldowns: 5,
