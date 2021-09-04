@@ -1,6 +1,6 @@
 {
 	"version": "1.0.1",
-	"change": ["chuibot","goibot","bans","listban"],
+	"change": ["chuibot","goibot","bans","listban","allbox"],
 	"modules": {
 		"commands": {
 			"chuibot": "2.0.0",
