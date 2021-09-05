@@ -33,7 +33,6 @@
 - **allbox** - Xem tất cả nhóm[data] đã tham gia(phân trang), bạn có thể reply theo số thự tự để ban, unban, out nhóm đó: [commands/allbox.js](modules/commands/allbox.js)
 - **listbox** - Xem tất cả nhóm hiện tại đã tham gia(phân trang), bạn có thể reply theo số thự tự để ban, unban, out nhóm đó: [commands/listbox.js](modules/commands/listbox.js)
 - **fixspam** - Chửi bot sẽ bị ban ngay tại thời điểm nói(lưu ý: Không sử dụng chung với modules chuibot): [commands/fixspam.js](modules/commands/fixspam.js)
->>>>>>> fdaa275ceee6e8fabd87c9c441f2f40755f94836
 
 # Tác Giả
 - **ManhG** - [GitHub](https://github.com/manhkhac) - [Facebook](https://www.facebook.com/manhict)
