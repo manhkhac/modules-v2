@@ -20,7 +20,7 @@
 
 # Module
 - **chuibot** - Chửi bot sẽ bị bot chửi lại và bạn có thể trả lời hoặc ban bằng cách rep "ban": [commands/chuibot.js](https://github.com/manhkhac/modules-v2/blob/master/modules/commands/chuibot.js)
-- **goibot** - Goi bot sẽ bị bot rep lại và bạn có thể trả lời bằng cách reply tin nhắn trả về(simsimi chạy bằng cơm): [commands/goibot.js](https://github.com/manhkhac/modules-v2/blob/master/modules/commands/goibot.js)
+- **goibot** - Goi bot sẽ được bot rep lại và bạn có thể trả lời bằng cách reply tin nhắn trả về(simsimi chạy bằng cơm): [commands/goibot.js](https://github.com/manhkhac/modules-v2/blob/master/modules/commands/goibot.js)
 - **listban** - Xem danh sách thread/user bị ban và gỡ ban bằng cách reply theo số thứ tự: [commands/listban.js](https://github.com/manhkhac/modules-v2/blob/master/modules/commands/listban.js)
 - **bans** - Ban thành viên nhóm dành cho QTV box sử dụng: [commands/bans.js](https://github.com/manhkhac/modules-v2/blob/master/modules/commands/bans.js)
 - **allbox** - Xem tất cả nhóm[data] đã tham gia(phân trang), bạn có thể reply theo số thự tự để ban, unban, out nhóm đó: [commands/allbox.js](https://github.com/manhkhac/modules-v2/blob/master/modules/commands/allbox.js)
