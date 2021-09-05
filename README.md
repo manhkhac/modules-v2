@@ -1,5 +1,3 @@
-# modules-v2
-modules-miraiv2
 <h1 align="center">
 	<img src="https://github.com/manhkhac/mirai-1.2.8/raw/data/img/mm.png" alt="">
 </h1>
