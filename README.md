@@ -3,9 +3,9 @@
 </h1>
 
 <p align="center">
-	<a href="https://github.com/manhkhac/Module-Miraiv2/commits" target="_blank"><img alt="commits" src="https://img.shields.io/github/commit-activity/m/manhkhac/Module-Miraiv2.svg?label=commit&style=flat-square"></a>
-	<a href="https://github.com/manhkhac/Module-Miraiv2/issues" target="_blank"><img alt="GitHub issues" src="https://img.shields.io/github/issues/manhkhac/Module-Miraiv2"></a>
-	<a href="https://github.com/manhkhac/Module-Miraiv2/stargazers" target="_blank"><img alt="GitHub stars" src="https://img.shields.io/github/stars/manhkhac/Module-Miraiv2"></a>
+	<a href="https://github.com/manhkhac/modules-v2/commits" target="_blank"><img alt="commits" src="https://img.shields.io/github/commit-activity/m/manhkhac/modules-v2.svg?label=commit&style=flat-square"></a>
+	<a href="https://github.com/manhkhac/modules-v2/issues" target="_blank"><img alt="GitHub issues" src="https://img.shields.io/github/issues/manhkhac/modules-v2"></a>
+	<a href="https://github.com/manhkhac/modules-v2/stargazers" target="_blank"><img alt="GitHub stars" src="https://img.shields.io/github/stars/manhkhac/modules-v2"></a>
 </p>
 
 ## ĐỌC KĨ README TRƯỚC KHI SỬ DỤNG TRÁNH LỖI KHÔNG MONG MUỐN !
