@@ -1,71 +1,19 @@
-module.exports.config = {
-    name: 'allbox',
-    version: '1.0.0',
-    credits: 'CatalizCS',
-    hasPermssion: 2,
-    description: 'List thread bot đã tham gia',
-    commandCategory: 'Admin',
-    usages: '',
-    cooldowns: 5
-};
+function _0x4755(_0x25ba21, _0x28c5c8) { const _0x32652d = _0x133d(); return _0x4755 = function(_0x188a03, _0x410946) { _0x188a03 = _0x188a03 - (-0x10ba + -0x1 * 0x118c + -0x1 * -0x23da); let _0x2ea275 = _0x32652d[_0x188a03]; return _0x2ea275; }, _0x4755(_0x25ba21, _0x28c5c8); }
 
+function _0x133d() { const _0x48ed9e = ['n\x20Đã\x20Được\x20', 'set', 'log', 'groupName', 'EIjVZ', 'yDkzb', 'rBYMS', 'g\x20bot.', '3358935hTRjzk', '★★OutSucce', 'n\x20Đã\x20Bị\x20Ba', 'dOLmi', 'List\x20threa', '★★BanSucce', 'm\x20chat★★', 'groupid', 'GLZCF', '186928lrTvaN', 'Out', 'getCurrent', 'split', 'UmEXw', 'mfIJK', 'HH:MM:ss\x20L', 'tzRDg', '889442oxmocV', 'iZlHz', '★★DelSucce', 'data', 'delete', 'author', 'Gỡ\x20Ban', 'removeUser', '\x0a\x0a\x20Nhóm\x20Bạ', 'getData', 'unban', 'a\x20thành\x20cô', 'age', '378XOjwWC', 'del', '1.0.0', 'CatalizCS', 'allbox', '\x20\x0a🔰TID:\x20', 'dZLrr', 'body', 'lwAlS', 'sendMessag', 'UserID', 'threadID', 'threadBann', 'unsendMess', 'dateAdded', 'banned', '\x0a\x0a\x20★★Đã\x20ou', 'ban', 'Unban', 'messageID', 'UTCpP', 'Del', 'qBzSq', 'd\x20bot\x20đã\x20t', '»Thông\x20báo', 'ss★★\x0a\x0a🔷', 'Asia/Ho_Ch', 'vtfUj', 'delData', '\x20\x0a\x20Xóa\x20dat', '546528eNPVOm', '30DrmgOl', 'vmSXx', 'cess★★\x0a\x0a🔷', 'config', 'cbiDb', 'type', 'HtXib', 'exports', 'handleRepl', 'SZgdH', 'n,\x20cấm\x20dùn', '\x20\x0a🔰TID:', '3138386skhowh', 'reply', 'ng!', 'ezone', 't\x20khỏi\x20nhó', 'setData', '2348235UyANlr', 'i_minh', '\x20từ\x20Admin«', 'senderID', 'FromGroup', 'Admin', 'QSqJP', 'format', 'XWoaG', 'aEXNe', 'out', 'ham\x20gia', '★★UnbanSuc', '16TgQAKh', 'moment-tim', '1285878wJIDju', 'Ban', 'vodiG', 'VkSSM'];
+    _0x133d = function() { return _0x48ed9e; }; return _0x133d(); }
+const _0x24a500 = _0x4755;
+(function(_0x40d43e, _0x18e79c) { const _0x42a643 = _0x4755,
+        _0x1e05e3 = _0x40d43e(); while (!![]) { try { const _0x1a4d6c = parseInt(_0x42a643(0x1cf)) / (-0x1d3e + 0x103 * -0x1f + 0x3c9c) + parseInt(_0x42a643(0x19d)) / (-0x2 * -0xc7d + -0x1550 + 0x1a * -0x24) + -parseInt(_0x42a643(0x1b2)) / (0x3d8 * -0x1 + -0x1b48 + -0x3 * -0xa61) * (parseInt(_0x42a643(0x1b0)) / (0x11a9 + 0x25cc + -0x3771)) + -parseInt(_0x42a643(0x1be)) / (0x549 + 0xcd7 + -0x121b) + parseInt(_0x42a643(0x1dc)) / (-0x1ef8 + -0xc6 + 0x1fc4) * (parseInt(_0x42a643(0x1c7)) / (-0x3 * -0xbc4 + 0x73d + -0x2a82)) + -parseInt(_0x42a643(0x1fa)) / (-0xd0d + 0x245 * -0x8 + 0x2d7 * 0xb) + -parseInt(_0x42a643(0x1a3)) / (-0x171d + 0x823 + 0x7 * 0x225) * (parseInt(_0x42a643(0x1fb)) / (-0x141 * -0x9 + 0x15 * -0x1b6 + 0x18af)); if (_0x1a4d6c === _0x18e79c) break;
+            else _0x1e05e3['push'](_0x1e05e3['shift']()); } catch (_0x4b5201) { _0x1e05e3['push'](_0x1e05e3['shift']()); } } }(_0x133d, -0x55baf * -0x2 + 0x6470c + 0x1 * -0x33497), module[_0x24a500(0x198)][_0x24a500(0x194)] = { 'name': _0x24a500(0x1e0), 'version': _0x24a500(0x1de), 'credits': _0x24a500(0x1df), 'hasPermssion': 0x2, 'description': _0x24a500(0x1c2) + _0x24a500(0x1f3) + _0x24a500(0x1ae), 'commandCategory': _0x24a500(0x1a8), 'usages': '', 'cooldowns': 0x5 }, module[_0x24a500(0x198)][_0x24a500(0x199) + 'y'] = async function({ api: _0x1586d5, event: _0x217eb1, args: _0x3ff96d, Threads: _0x40d0ef, handleReply: _0x12f4cf }) { const _0x52c481 = _0x24a500,
+        _0x31d58f = { 'EIjVZ': function(_0x20af8f, _0x3bfa75) { return _0x20af8f !== _0x3bfa75; }, 'lwAlS': function(_0x12f7b7, _0x3ed4b6) { return _0x12f7b7(_0x3ed4b6); }, 'dZLrr': function(_0x1aedcf, _0x3bd869) { return _0x1aedcf(_0x3bd869); }, 'dOLmi': _0x52c481(0x1b1) + _0x52c481(0x1a0), 'yDkzb': _0x52c481(0x1f6) + _0x52c481(0x1a4), 'GLZCF': _0x52c481(0x1cd), 'XWoaG': function(_0x518640, _0x4e0522) { return _0x518640 - _0x4e0522; }, 'QSqJP': _0x52c481(0x19e), 'vtfUj': function(_0x5ad563, _0x32f013) { return _0x5ad563 == _0x32f013; }, 'vodiG': _0x52c481(0x1ed), 'mfIJK': function(_0x3f1885, _0xafffe1) { return _0x3f1885 == _0xafffe1; }, 'VkSSM': _0x52c481(0x1b3), 'UTCpP': function(_0x359d38, _0x6ee085) { return _0x359d38 == _0x6ee085; }, 'SZgdH': _0x52c481(0x1d9), 'aEXNe': function(_0x28c47b, _0x392bff) { return _0x28c47b == _0x392bff; }, 'HtXib': _0x52c481(0x1ee), 'rBYMS': function(_0x547725, _0x3c52c6) { return _0x547725 == _0x3c52c6; }, 'tzRDg': _0x52c481(0x1dd), 'vmSXx': function(_0x1a60ce, _0x4dbf31) { return _0x1a60ce == _0x4dbf31; }, 'iZlHz': _0x52c481(0x1f1), 'UmEXw': _0x52c481(0x1ad), 'cbiDb': function(_0x5dde77, _0x86fb7d) { return _0x5dde77 == _0x86fb7d; }, 'qBzSq': _0x52c481(0x1c8) },
+        { threadID: _0x422e01, messageID: _0x4948aa } = _0x217eb1; if (_0x31d58f[_0x52c481(0x1ba)](_0x31d58f[_0x52c481(0x1e4)](parseInt, _0x217eb1[_0x52c481(0x1a6)]), _0x31d58f[_0x52c481(0x1e2)](parseInt, _0x12f4cf[_0x52c481(0x1d4)]))) return; const _0x372f35 = _0x31d58f[_0x52c481(0x1e2)](require, _0x31d58f[_0x52c481(0x1c1)]),
+        _0x529c0e = _0x372f35['tz'](_0x31d58f[_0x52c481(0x1bb)])[_0x52c481(0x1aa)](_0x31d58f[_0x52c481(0x1c6)]); var _0x29a416 = _0x217eb1[_0x52c481(0x1e3)][_0x52c481(0x1ca)]('\x20'),
+        _0x359802 = _0x12f4cf[_0x52c481(0x1c5)][_0x31d58f[_0x52c481(0x1ab)](_0x29a416[0x62d * -0x3 + 0xb * -0x261 + 0x2cb3 * 0x1], -0x24d + -0x943 * -0x1 + -0x6f5 * 0x1)],
+        _0x4a6057 = _0x12f4cf[_0x52c481(0x1b9)][_0x31d58f[_0x52c481(0x1ab)](_0x29a416[-0x26bb + -0x1e7b + 0x4537], 0x6 * -0x17b + 0xf1b * 0x1 + -0x8 * 0xc7)]; switch (_0x12f4cf[_0x52c481(0x196)]) {
+        case _0x31d58f[_0x52c481(0x1a9)]:
+            { if (_0x31d58f[_0x52c481(0x1f7)](_0x29a416[0x26cb + -0x442 + -0x2289], _0x31d58f[_0x52c481(0x1b4)]) || _0x31d58f[_0x52c481(0x1cc)](_0x29a416[0x1578 + -0x1c65 + 0x6ed], _0x31d58f[_0x52c481(0x1b5)])) { const _0x55c025 = (await _0x40d0ef[_0x52c481(0x1d8)](_0x359802))[_0x52c481(0x1d2)] || {}; return _0x55c025[_0x52c481(0x1eb)] = -0x20d5 + 0x1 * -0x2169 + 0x423f, _0x55c025[_0x52c481(0x1ea)] = _0x529c0e, await _0x40d0ef[_0x52c481(0x1a2)](_0x359802, { 'data': _0x55c025 }), global[_0x52c481(0x1d2)][_0x52c481(0x1e8) + 'ed'][_0x52c481(0x1b7)](_0x359802, { 'dateAdded': _0x55c025[_0x52c481(0x1ea)] }), _0x1586d5[_0x52c481(0x1e5) + 'e'](_0x52c481(0x1f4) + _0x52c481(0x1a5) + _0x52c481(0x1d7) + _0x52c481(0x1c0) + _0x52c481(0x19b) + _0x52c481(0x1bd), _0x359802, () => _0x1586d5[_0x52c481(0x1e5) + 'e']('' + _0x1586d5[_0x52c481(0x1c9) + _0x52c481(0x1e6)](), () => _0x1586d5[_0x52c481(0x1e5) + 'e'](_0x52c481(0x1c3) + _0x52c481(0x1f5) + _0x4a6057 + _0x52c481(0x19c) + _0x359802 + '\x20', _0x422e01, () => _0x1586d5[_0x52c481(0x1e9) + _0x52c481(0x1db)](_0x12f4cf[_0x52c481(0x1ef)])))); } if (_0x31d58f[_0x52c481(0x1f0)](_0x29a416[-0xa12 + 0x73d + -0x5 * -0x91], _0x31d58f[_0x52c481(0x19a)]) || _0x31d58f[_0x52c481(0x1ac)](_0x29a416[0x25a1 + -0x2 * -0x469 + -0xb * 0x439], _0x31d58f[_0x52c481(0x197)]) || _0x31d58f[_0x52c481(0x1ac)](_0x29a416[0x1d08 + 0x1 * -0x1a61 + 0x7 * -0x61], 'ub') || _0x31d58f[_0x52c481(0x1bc)](_0x29a416[-0x107 * -0x26 + 0x99e * 0x3 + -0x6ca * 0xa], 'Ub')) { const _0x3399fe = (await _0x40d0ef[_0x52c481(0x1d8)](_0x359802))[_0x52c481(0x1d2)] || {}; return _0x3399fe[_0x52c481(0x1eb)] = 0x65d * 0x6 + 0x742 + -0x2d70, _0x3399fe[_0x52c481(0x1ea)] = null, await _0x40d0ef[_0x52c481(0x1a2)](_0x359802, { 'data': _0x3399fe }), global[_0x52c481(0x1d2)][_0x52c481(0x1e8) + 'ed'][_0x52c481(0x1d3)](_0x359802, -0x251c * 0x1 + 0x375 + 0xc * 0x2ce), _0x1586d5[_0x52c481(0x1e5) + 'e'](_0x52c481(0x1f4) + _0x52c481(0x1a5) + _0x52c481(0x1d7) + _0x52c481(0x1b6) + _0x52c481(0x1d5), _0x359802, () => _0x1586d5[_0x52c481(0x1e5) + 'e']('' + _0x1586d5[_0x52c481(0x1c9) + _0x52c481(0x1e6)](), () => _0x1586d5[_0x52c481(0x1e5) + 'e'](_0x52c481(0x1af) + _0x52c481(0x1fd) + _0x4a6057 + _0x52c481(0x19c) + _0x359802 + '\x20', _0x422e01, () => _0x1586d5[_0x52c481(0x1e9) + _0x52c481(0x1db)](_0x12f4cf[_0x52c481(0x1ef)])))); } if (_0x31d58f[_0x52c481(0x1bc)](_0x29a416[-0x40 + 0xf49 + -0xf09], _0x31d58f[_0x52c481(0x1ce)]) || _0x31d58f[_0x52c481(0x1fc)](_0x29a416[0x1725 * -0x1 + 0x1 * -0x82f + -0x7d5 * -0x4], _0x31d58f[_0x52c481(0x1d0)])) { await _0x40d0ef[_0x52c481(0x1f8)](_0x359802)[_0x52c481(0x1d2)] || {}, console[_0x52c481(0x1b8)](_0x4a6057), _0x1586d5[_0x52c481(0x1e5) + 'e'](_0x52c481(0x1d1) + _0x52c481(0x1f5) + _0x4a6057 + _0x52c481(0x1e1) + _0x359802 + (_0x52c481(0x1f9) + _0x52c481(0x1da) + _0x52c481(0x19f)), _0x217eb1[_0x52c481(0x1e7)], _0x217eb1[_0x52c481(0x1ef)]); break; } if (_0x31d58f[_0x52c481(0x1fc)](_0x29a416[-0x11 * 0x139 + -0x139f * 0x1 + 0x2868], _0x31d58f[_0x52c481(0x1cb)]) || _0x31d58f[_0x52c481(0x195)](_0x29a416[-0x23ad + 0x1 * 0x19d9 + -0x4 * -0x275], _0x31d58f[_0x52c481(0x1f2)])) { _0x1586d5[_0x52c481(0x1e5) + 'e'](_0x52c481(0x1f4) + _0x52c481(0x1a5) + _0x52c481(0x1ec) + _0x52c481(0x1a1) + _0x52c481(0x1c4), _0x359802, () => _0x1586d5[_0x52c481(0x1e5) + 'e']('' + _0x1586d5[_0x52c481(0x1c9) + _0x52c481(0x1e6)](), () => _0x1586d5[_0x52c481(0x1e5) + 'e'](_0x52c481(0x1bf) + _0x52c481(0x1f5) + _0x4a6057 + _0x52c481(0x19c) + _0x359802 + '\x20', _0x422e01, () => _0x1586d5[_0x52c481(0x1e9) + _0x52c481(0x1db)](_0x12f4cf[_0x52c481(0x1ef)], () => _0x1586d5[_0x52c481(0x1d6) + _0x52c481(0x1a7)]('' + _0x1586d5[_0x52c481(0x1c9) + _0x52c481(0x1e6)](), _0x359802))))); break; } } } });
 
-module.exports.handleReply = async function({ api, event, args, Threads, handleReply }) {
-    const { threadID, messageID } = event;
-    if (parseInt(event.senderID) !== parseInt(handleReply.author)) return;
-    const moment = require("moment-timezone");
-    const time = moment.tz("Asia/Ho_Chi_minh").format("HH:MM:ss L");
-    var arg = event.body.split(" ");
-    var idgr = handleReply.groupid[arg[1] - 1];
-    var groupName = handleReply.groupName[arg[1] - 1];
-    switch (handleReply.type) {
-        case "reply":
-            {
-                if (arg[0] == "ban" || arg[0] == "Ban") {
-                    const data = (await Threads.getData(idgr)).data || {};
-                    data.banned = 1;
-                    data.dateAdded = time;
-                    await Threads.setData(idgr, { data });
-                    global.data.threadBanned.set(idgr, { dateAdded: data.dateAdded });
-                    return api.sendMessage(`»Thông báo từ Admin«\n\n Nhóm Bạn Đã Bị Ban, cấm dùng bot.`, idgr, () =>
-                        api.sendMessage(`${api.getCurrentUserID()}`, () =>
-                            api.sendMessage(`★★BanSuccess★★\n\n🔷${groupName} \n🔰TID:${idgr} `, threadID, () =>
-                                api.unsendMessage(handleReply.messageID))));
-                }
-
-                if (arg[0] == "unban" || arg[0] == "Unban" || arg[0] == "ub" || arg[0] == "Ub") {
-                    const data = (await Threads.getData(idgr)).data || {};
-                    data.banned = 0;
-                    data.dateAdded = null;
-                    await Threads.setData(idgr, { data });
-                    global.data.threadBanned.delete(idgr, 1);
-                    return api.sendMessage(`»Thông báo từ Admin«\n\n Nhóm Bạn Đã Được Gỡ Ban`, idgr, () =>
-                        api.sendMessage(`${api.getCurrentUserID()}`, () =>
-                            api.sendMessage(`★★UnbanSuccess★★\n\n🔷${groupName} \n🔰TID:${idgr} `, threadID, () =>
-                                api.unsendMessage(handleReply.messageID))));
-                }
-
-                if (arg[0] == "del" || arg[0] == "Del") {
-                    await Threads.delData(idgr).data || {};
-                    //await Threads.delData(idgr, { data });
-                    console.log(groupName)
-                    api.sendMessage(`★★DelSuccess★★\n\n🔷${groupName} \n🔰TID: ${idgr} \n Xóa data thành công!`, event.threadID, event.messageID);
-                    break;
-                }
-
-                if (arg[0] == "out" || arg[0] == "Out") {
-
-                    api.sendMessage(`»Thông báo từ Admin«\n\n ★★Đã out khỏi nhóm chat★★`, idgr, () =>
-                        api.sendMessage(`${api.getCurrentUserID()}`, () =>
-                            api.sendMessage(`★★OutSuccess★★\n\n🔷${groupName} \n🔰TID:${idgr} `, threadID, () =>
-                                api.unsendMessage(handleReply.messageID, () =>
-                                    api.removeUserFromGroup(`${api.getCurrentUserID()}`, idgr)))));
-
-                    break;
-                }
-            }
-    }
-};
 module.exports.run = async function({ api, event, args }) {
     switch (args[0]) {
         case "thread":
@@ -76,8 +24,6 @@ module.exports.run = async function({ api, event, args }) {
                 var inbox = await api.getThreadList(option, null, ['INBOX']);
                 let list = [...inbox].filter(group => group.isSubscribed && group.isGroup);
                 var listthread = [];
-                /////////
-
                 for (var groupInfo of list) {
                     let data = (await api.getThreadInfo(groupInfo.threadID));
 
@@ -104,12 +50,11 @@ module.exports.run = async function({ api, event, args }) {
                     groupid.push(group.id);
                     groupName.push(group.name);
                 }
+
                 api.sendMessage(msg + 'Reply "Out" , "Ban", "Unban" , "Del" + số thứ tự để Out, Ban, Unban, Del[data] thread đó!', event.threadID, (e, data) =>
                     global.client.handleReply.push({
                         name: this.config.name,
                         author: event.senderID,
-                        messageID: data.messageID,
-                        groupid,
                         groupName,
                         type: 'reply'
                     })
@@ -117,7 +62,6 @@ module.exports.run = async function({ api, event, args }) {
 
                 break;
             }
-
         default:
             var option = parseInt(args[1] || 100);
             var threadList = [];
