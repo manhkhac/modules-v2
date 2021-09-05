@@ -23,6 +23,9 @@
 - **goibot** - Goi bot sẽ bị bot rep lại và bạn có thể trả lời bằng cách reply tin nhắn trả về(simsimi chạy bằng cơm): [commands/goibot.js](modules/commands/goibot.js)
 - **listban** - Xem danh sách thread/user bị ban và gỡ ban bằng cách reply theo số thứ tự: [commands/listban.js](modules/commands/listban.js)
 - **bans** - Ban thành viên nhóm dành cho QTV box sử dụng: [commands/bans.js](modules/commands/bans.js)
+- **allbox** - Xem tất cả nhóm[data] đã tham gia(phân trang), bạn có thể reply theo số thự tự để ban, unban, out nhóm đó: [commands/allbox.js](modules/commands/allbox.js)
+- **listbox** - Xem tất cả nhóm hiện tại đã tham gia(phân trang), bạn có thể reply theo số thự tự để ban, unban, out nhóm đó: [commands/listbox.js](modules/commands/listbox.js)
+- **fixspam** - Chửi bot sẽ bị ban ngay tại thời điểm nói(lưu ý: Không sử dụng chung với modules chuibot): [commands/fixspam.js](modules/commands/fixspam.js)
 
 # Tác Giả
 - **ManhG** - [GitHub](https://github.com/manhkhac) - [Facebook](https://www.facebook.com/manhict)
