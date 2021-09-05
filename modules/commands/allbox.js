@@ -81,7 +81,6 @@ module.exports.run = async function({ api, event, args }) {
                         type: 'reply'
                     })
                 );
-
-                break;
+             break;
     }
 };
