@@ -27,6 +27,11 @@
 - **listbox** - Xem tất cả nhóm hiện tại đã tham gia(phân trang), bạn có thể reply theo số thự tự để ban, unban, out nhóm đó: [commands/listbox.js](https://github.com/manhkhac/modules-v2/blob/master/modules/commands/listbox.js)
 - **fixspam** - Chửi bot sẽ bị ban ngay tại thời điểm nói(lưu ý: Không sử dụng chung với modules chuibot): [commands/fixspam.js](https://github.com/manhkhac/modules-v2/blob/master/modules/commands/fixspam.js)
 
+js)
+- **fixspam-chuibot** - Chửi bot sẽ bị ban ngay tại thời điểm nói( lưu ý: Không sử dụng chung với modules chuibot ): [commands/fixspam-chuibot.js](modules/commands/fixspam-chuibot.js)
+- **ytbmp4** - Phát video thông qua link YouTube hoặc từ khoá tìm kiếm: [commands/ytbmp4.js](modules/commands/ytbmp4.js)
+- **covid** - Lấy thông tin về tình hình dịch bệnh COVID-19 [K/D/A] : [commands/covid.js](modules/commands/covid.js)
+
 # Tác Giả
 - **ManhG** - [GitHub](https://github.com/manhkhac) - [Facebook](https://www.facebook.com/manhict)
 
