@@ -12,7 +12,7 @@
 
 # Module hỗ trợ cho source [MiraiPr0ject/Miraiv2](https://github.com/miraiPr0ject/miraiv2)
 
-# Cập nhật: 06/09/2021
+# Cập nhật: 10/09/2021
 
 # Vị Trí Lưu
 - Module command: [modules/commands](https://github.com/miraiPr0ject/miraiv2/tree/main/modules/commands)
