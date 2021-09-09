@@ -26,6 +26,7 @@
 - **allbox** - Xem tất cả nhóm[data] đã tham gia(phân trang), bạn có thể reply theo số thự tự để ban, unban, out nhóm đó: [commands/allbox.js](modules/commands/allbox.js)
 - **listbox** - Xem tất cả nhóm hiện tại đã tham gia(phân trang), bạn có thể reply theo số thự tự để ban, unban, out nhóm đó: [commands/listbox.js](modules/commands/listbox.js)
 - **fixspam-chuibot** - Chửi bot sẽ bị ban ngay tại thời điểm nói( lưu ý: Không sử dụng chung với modules chuibot ): [commands/fixspam-chuibot.js](modules/commands/fixspam-chuibot.js)
+- **ytbmp4** - Phát video thông qua link YouTube hoặc từ khoá tìm kiếm: [commands/ytbmp4.js](modules/commands/ytbmp4.js)
 
 # Tác Giả
 - **ManhG** - [GitHub](https://github.com/manhkhac) - [Facebook](https://www.facebook.com/manhict)
