@@ -19,7 +19,7 @@
 - Module event: [modules/events](https://github.com/miraiPr0ject/miraiv2/tree/main/modules/events)
 
 # Module
-- **chuibot** - Chửi bot sẽ bị bot chửi lại và bạn có thể trả lời hoặc ban bằng cách rep "ban"( lưu ý: Không sử dụng chung với modules fixspam ): [commands/chuibot.js](modules/commands/chuibot.js)
+- **chuibot** - Chửi bot sẽ bị bot chửi lại và bạn có thể trả lời hoặc ban bằng cách rep "ban"( lưu ý: Không sử dụng chung với modules fixspam-chuibot ): [commands/chuibot.js](modules/commands/chuibot.js)
 - **goibot** - Goi bot sẽ được bot rep lại và bạn có thể trả lời bằng cách reply tin nhắn trả về(simsimi chạy bằng cơm): [commands/goibot.js](modules/commands/goibot.js)
 - **listban** - Xem danh sách thread/user bị ban và gỡ ban bằng cách reply theo số thứ tự: [commands/listban.js](modules/commands/listban.js)
 - **bans** - Ban thành viên nhóm dành cho QTV box sử dụng: [commands/bans.js](modules/commands/bans.js)
