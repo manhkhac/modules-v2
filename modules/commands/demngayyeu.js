@@ -43,7 +43,7 @@ module.exports.handleEvent = async ({
 	event: e,
 	api: a
 }) {
-	 //Thay ngày bắt đầu yêu nhau của 2 bạn vào đây, dòng 27: năm/tháng/ngày
+	 //Thay ngày bắt đầu yêu nhau của 2 bạn vào đây, dòng 47: năm/tháng/ngày
 	let t = new Date(2021, 2, 23, 0, 0, 0).getTime(),
 		n = Date.now() - t,
 		r = Math.floor(n / 864e5),
