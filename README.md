@@ -28,6 +28,7 @@
 - **fixspam-chuibot** - Chửi bot sẽ bị ban ngay tại thời điểm nói( lưu ý: Không sử dụng chung với modules chuibot ): [commands/fixspam-chuibot.js](modules/commands/fixspam-chuibot.js)
 - **ytbmp4** - Phát video thông qua link YouTube hoặc từ khoá tìm kiếm: [commands/ytbmp4.js](modules/commands/ytbmp4.js)
 - **covid** - Lấy thông tin về tình hình dịch bệnh COVID-19 [K/D/A] : [commands/covid.js](modules/commands/covid.js)
+- **callad** - Chỉ là bản callad đã fix get user/thread : [commands/callad.js](modules/commands/callad.js)
 
 # Tác Giả
 - **ManhG** - [GitHub](https://github.com/manhkhac) - [Facebook](https://www.facebook.com/manhict)
