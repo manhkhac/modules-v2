@@ -23,7 +23,7 @@ module.exports.handleEvent = async ({
 	} = e;
 	if (g == a.getCurrentUserID()) return;
 
-  //Thay ngày bắt đầu yêu nhau của 2 bạn vào đây, dòng 26 năm/tháng/ngày
+  //Thay ngày bắt đầu yêu nhau của 2 bạn vào đây, dòng 27: năm/tháng/ngày
 	let y = new Date(2021, 2, 23, 0, 0, 0).getTime(),
 		l = Date.now() - y,
 		d = Math.floor(l / 864e5),
