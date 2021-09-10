@@ -29,6 +29,7 @@
 - **ytbmp4** - Phát video thông qua link YouTube hoặc từ khoá tìm kiếm: [commands/ytbmp4.js](modules/commands/ytbmp4.js)
 - **covid** - Lấy thông tin về tình hình dịch bệnh COVID-19 [K/D/A] : [commands/covid.js](modules/commands/covid.js)
 - **callad** - Chỉ là bản callad đã fix get user/thread : [commands/callad.js](modules/commands/callad.js)
+- **resend** - Chỉ là bản resend đã fix bật tắt version > 1.2.13 : [commands/resend.js](modules/commands/resend.js)
 
 # Tác Giả
 - **ManhG** - [GitHub](https://github.com/manhkhac) - [Facebook](https://www.facebook.com/manhict)
