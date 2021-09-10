@@ -12,7 +12,7 @@
 
 # Module hỗ trợ cho source [MiraiPr0ject/Miraiv2](https://github.com/miraiPr0ject/miraiv2)
 
-# Cập nhật: 06/09/2021
+# Cập nhật: 11/09/2021
 
 # Vị Trí Lưu
 - Module command: [modules/commands](https://github.com/miraiPr0ject/miraiv2/tree/main/modules/commands)
@@ -27,8 +27,11 @@
 - **listbox** - Xem tất cả nhóm hiện tại đã tham gia(phân trang), bạn có thể reply theo số thự tự để ban, unban, out nhóm đó: [commands/listbox.js](https://github.com/manhkhac/modules-v2/blob/master/modules/commands/listbox.js)
 - **fixspam** - Chửi bot sẽ bị ban ngay tại thời điểm nói(lưu ý: Không sử dụng chung với modules chuibot): [commands/fixspam.js](https://github.com/manhkhac/modules-v2/blob/master/modules/commands/fixspam.js)
 - **fixspam-chuibot** - Chửi bot sẽ bị ban ngay tại thời điểm nói( lưu ý: Không sử dụng chung với modules chuibot ): [commands/fixspam-chuibot.js](modules/commands/fixspam-chuibot.js)
-- **ytbmp4** - Phát video thông qua link YouTube hoặc từ khoá tìm kiếm: [commands/ytbmp4.js](modules/commands/ytbmp4.js)
-- **covid** - Lấy thông tin về tình hình dịch bệnh COVID-19 [K/D/A] : [commands/covid.js](modules/commands/covid.js)
+- **ytbmp4** - Phát video thông qua link YouTube hoặc từ khoá tìm kiếm: [commands/ytbmp4.js](https://github.com/manhkhac/modules-v2/blob/master/modules/commands/ytbmp4.js)
+- **covid** - Lấy thông tin về tình hình dịch bệnh COVID-19 [K/D/A] : [commands/covid.js](https://github.com/manhkhac/modules-v2/blob/master/modules/commands/covid.js)
+- **callad** - Chỉ là bản callad đã fix get user/thread : [commands/callad.js](https://github.com/manhkhac/modules-v2/blob/master/modules/commands/callad.js)
+- **resend** - Chỉ là bản resend đã fix bật tắt version > 1.2.13 : [commands/resend.js](https://github.com/manhkhac/modules-v2/blob/master/modules/commands/resend.js)
+- **demngayyeu** - Chỉ đơn giản là đếm số ngày đã yêu nhau của ai đó : [commands/demngayyeu.js](https://github.com/manhkhac/modules-v2/blob/master/modules/commands/demngayyeu.js)
 
 # Tác Giả
 - **ManhG** - [GitHub](https://github.com/manhkhac) - [Facebook](https://www.facebook.com/manhict)
