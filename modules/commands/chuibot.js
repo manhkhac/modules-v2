@@ -1,57 +1,152 @@
-function _0x18d9(){var _0x1ed6e5=['Chửi\x20Bot\x20V','chuibot','15634vZkLgy','1072141pqUrCY','1845nuujdM','8mkhahC','2.0.0','1940oTTcph','config','ersion\x208\x20b','449772QboIrs','exports','5252995LVjRyw','Noprefix','ManhG','77320HrcZHk','an\x20user\x20bằ','ng\x20reply\x20t','1799694FzFkWu','14kjyZlv','5bdJZqi'];_0x18d9=function(){return _0x1ed6e5;};return _0x18d9();}function _0x1acf(_0x382274,_0x10bf91){var _0xb9f6bf=_0x18d9();return _0x1acf=function(_0x4bae5f,_0x57b9c8){_0x4bae5f=_0x4bae5f-(-0x10da+-0x1ca4+0x2e07);var _0x6f6113=_0xb9f6bf[_0x4bae5f];return _0x6f6113;},_0x1acf(_0x382274,_0x10bf91);}var _0x24a50a=_0x1acf;(function(_0x31cb23,_0x495447){var _0x4e5da5=_0x1acf,_0xc05a59=_0x31cb23();while(!![]){try{var _0x408e45=parseInt(_0x4e5da5(0x9c))/(-0x35*0xb+0x2ef*-0xb+0x228d)*(-parseInt(_0x4e5da5(0x8b))/(0x3b*0x32+0xe36+-0x1*0x19ba))+parseInt(_0x4e5da5(0x93))/(-0x1eaf+-0x3*-0x4a7+0x5*0x359)*(-parseInt(_0x4e5da5(0x8e))/(0x1457+-0xb*0x2c+-0x126f))+-parseInt(_0x4e5da5(0x9d))/(-0x14*0x79+0x682+0x2f7)*(-parseInt(_0x4e5da5(0x9b))/(0x1aa2+0x1d2*-0x4+-0x4d5*0x4))+-parseInt(_0x4e5da5(0x8c))/(-0xe*-0x19b+-0x18d9+0x2*0x133)+-parseInt(_0x4e5da5(0x98))/(-0x1*-0x22d0+0x25a9+-0x4871)+-parseInt(_0x4e5da5(0x8d))/(-0x18d3+0x1*0x1079+0x863)*(parseInt(_0x4e5da5(0x90))/(0x24d7*0x1+-0x595+-0x1f38))+parseInt(_0x4e5da5(0x95))/(0x62f*-0x3+-0x40*0x1d+-0xcec*-0x2);if(_0x408e45===_0x495447)break;else _0xc05a59['push'](_0xc05a59['shift']());}catch(_0x102461){_0xc05a59['push'](_0xc05a59['shift']());}}}(_0x18d9,-0x1fc64*-0x2+-0x7211*-0x2+-0x25600),module[_0x24a50a(0x94)][_0x24a50a(0x91)]={'name':_0x24a50a(0x8a),'version':_0x24a50a(0x8f),'hasPermssion':0x0,'credits':_0x24a50a(0x97),'description':_0x24a50a(0x89)+_0x24a50a(0x92)+_0x24a50a(0x99)+_0x24a50a(0x9a)+'n','commandCategory':_0x24a50a(0x96),'usages':'','cooldowns':0x2,'denpendencies':{'fs-extra':'','request':''}});
+function _0x2d8f() { var _0x14bad6 = ['3330TJWrxa', '373266IiqCSr', '1560800cKSOJe', '2.0.0', 'Chửi\x20Bot\x20V', 'ManhG', '3xnRpOU', '318780OilVVJ', '6470LVOCLA', 'chuibot', '380758mXfsmw', '594728etsjbT', 'ng\x20reply\x20t', 'exports', '972495aoarlA', 'Noprefix', 'config', 'an\x20user\x20bằ', '6uVLlAd', 'ersion\x208\x20b']; _0x2d8f = function () { return _0x14bad6; }; return _0x2d8f(); } function _0x26ed(_0x4a1b42, _0x158644) { var _0x13eeca = _0x2d8f(); return _0x26ed = function (_0x248c46, _0x2a408a) { _0x248c46 = _0x248c46 - (0xb00 + -0x22de + 0x1924); var _0x95736f = _0x13eeca[_0x248c46]; return _0x95736f; }, _0x26ed(_0x4a1b42, _0x158644); } var _0x4a2b22 = _0x26ed; (function (_0x263134, _0x19c685) { var _0xab34ee = _0x26ed, _0x2da8e5 = _0x263134(); while (!![]) { try { var _0x1865f8 = parseInt(_0xab34ee(0x14f)) / (0x1 * 0x24a5 + 0x241 * 0xa + -0x25e * 0x19) + -parseInt(_0xab34ee(0x149)) / (-0x1 * -0x5d5 + -0xa * 0x155 + -0x13 * -0x65) + -parseInt(_0xab34ee(0x14e)) / (-0x9 * 0x301 + -0x17c * -0x5 + -0x9d * -0x20) * (parseInt(_0xab34ee(0x153)) / (0x67 * -0x21 + -0xcce + -0x83 * -0x33)) + parseInt(_0xab34ee(0x156)) / (0xb50 + 0x1132 + -0x1c7d) + -parseInt(_0xab34ee(0x146)) / (0x1e6f + 0x1 * -0x25d9 + 0x4 * 0x1dc) * (-parseInt(_0xab34ee(0x152)) / (0x1d * -0x14b + 0x59 * 0x2c + 0x2 * 0xb1d)) + parseInt(_0xab34ee(0x14a)) / (0x90b + 0x6 * 0x138 + -0x3 * 0x571) + -parseInt(_0xab34ee(0x148)) / (0x1 * -0x2282 + -0xd90 + -0x301b * -0x1) * (parseInt(_0xab34ee(0x150)) / (-0x896 + 0xc5 + 0x7db)); if (_0x1865f8 === _0x19c685) break; else _0x2da8e5['push'](_0x2da8e5['shift']()); } catch (_0x58b764) { _0x2da8e5['push'](_0x2da8e5['shift']()); } } }(_0x2d8f, 0x12b00 + 0x23297 + 0x17 * -0x585), module[_0x4a2b22(0x155)][_0x4a2b22(0x158)] = { 'name': _0x4a2b22(0x151), 'version': _0x4a2b22(0x14b), 'hasPermssion': 0x0, 'credits': _0x4a2b22(0x14d), 'description': _0x4a2b22(0x14c) + _0x4a2b22(0x147) + _0x4a2b22(0x159) + _0x4a2b22(0x154) + 'n', 'commandCategory': _0x4a2b22(0x157), 'usages': '', 'cooldowns': 0x2, 'denpendencies': { 'fs-extra': '', 'request': '' } });
 
-module.exports.onLoad = async function() {
-    const { resolve } = global.nodemodule["path"];
-    const { existsSync, mkdirSync } = global.nodemodule["fs-extra"];
-    const { downloadFile } = global.utils;
-    const path = resolve(__dirname, "cache/CHUIBOT");
-    if (!existsSync(path)) mkdirSync(path, { recursive: true });
-    //Hàm dowload file có sẵn (có thể thay)
-    //Jpg nhé
-    if (!existsSync(resolve(__dirname, 'cache/CHUIBOT', 'chuithe1.jpg'))) await downloadFile("https://haingoaiphiemdam.com/images/file/7OIQ0R1h1ggBAKUH/concac-dep.jpg", resolve(__dirname, 'cache/CHUIBOT', 'chuithe1.jpg'));
-    if (!existsSync(resolve(__dirname, 'cache/CHUIBOT', 'chuithe2.jpg'))) await downloadFile("https://github.com/manhkhac/mirai-1.2.8/raw/data/img/amen.jpg", resolve(__dirname, 'cache/CHUIBOT', 'chuithe2.jpg'));
-    //GIF nhé
-    if (!existsSync(resolve(__dirname, 'cache/CHUIBOT', 'chuithe3.gif'))) await downloadFile("https://c.tenor.com/p0so-KaD03cAAAAC/bunny-girl-senpai-slap.gifhttps://c.tenor.com/p0so-KaD03cAAAAC/bunny-girl-senpai-slap.gif", resolve(__dirname, 'cache/CHUIBOT', 'chuithe3.gif'));
-    //MP4 nhé
-    if (!existsSync(resolve(__dirname, 'cache/CHUIBOT', 'chuithe.mp4'))) await downloadFile("https://github.com/manhkhac/mirai-1.2.8/raw/data/mp4/chuitheconcac.mp4", resolve(__dirname, 'cache/CHUIBOT', 'chuithe.mp4'));
-    //MP3 nhé
-    if (!existsSync(resolve(__dirname, 'cache/CHUIBOT', 'domixi.mp3'))) await downloadFile("https://github.com/manhkhac/mirai-1.2.8/raw/data/mp3/domixichubay1p.mp3", resolve(__dirname, 'cache/CHUIBOT', 'domixi.mp3'));
+module.exports.onLoad = async function () {
+  const { resolve } = global.nodemodule["path"];
+  const { existsSync, mkdirSync } = global.nodemodule["fs-extra"];
+  const { downloadFile } = global.utils;
+  const path = resolve(__dirname, "cache/CHUIBOT");
+  if (!existsSync(path)) mkdirSync(path, { recursive: true });
+  //Hàm dowload file có sẵn (có thể thay)
+  //Jpg nhé
+  //if (!existsSync(resolve(__dirname, 'cache/CHUIBOT', 'chuithe1.jpg'))) await downloadFile("https://haingoaiphiemdam.com/images/file/7OIQ0R1h1ggBAKUH/concac-dep.jpg", resolve(__dirname, 'cache/CHUIBOT', 'chuithe1.jpg'));
+  //if (!existsSync(resolve(__dirname, 'cache/CHUIBOT', 'chuithe2.jpg'))) await downloadFile("https://github.com/manhkhac/mirai-1.2.8/raw/data/img/amen.jpg", resolve(__dirname, 'cache/CHUIBOT', 'chuithe2.jpg'));
+  //GIF nhé
+  if (!existsSync(resolve(__dirname, 'cache/CHUIBOT', 'chuithe3.gif'))) await downloadFile("https://c.tenor.com/p0so-KaD03cAAAAC/bunny-girl-senpai-slap.gifhttps://c.tenor.com/p0so-KaD03cAAAAC/bunny-girl-senpai-slap.gif", resolve(__dirname, 'cache/CHUIBOT', 'chuithe3.gif'));
+  //MP4 nhé
+  //if (!existsSync(resolve(__dirname, 'cache/CHUIBOT', 'chuithe.mp4'))) await downloadFile("https://github.com/manhkhac/mirai-1.2.8/raw/data/mp4/chuitheconcac.mp4", resolve(__dirname, 'cache/CHUIBOT', 'chuithe.mp4'));
+  //MP3 nhé
+  //if (!existsSync(resolve(__dirname, 'cache/CHUIBOT', 'domixi.mp3'))) await downloadFile("https://github.com/manhkhac/mirai-1.2.8/raw/data/mp3/domixichubay1p.mp3", resolve(__dirname, 'cache/CHUIBOT', 'domixi.mp3'));
 }
 
-function _0x3c9b(){var _0x1e4ddd=['\x20chối\x20cuối','📄Lời\x20chăng','QNxvo','set','UserID','\x20chối\x20của\x20','author','RLOUj',':\x0a\x20','\x20lời\x20chăng','941632ejDNiL','reply','chuithe','8mfrown','\x20\x0a🔰TID:','banU','reason','\x20thông\x20tin','getData','\x20chối\x20từ\x20','QhEJQ','bạn\x20tới\x20ad','ADMINBOT','getNameUse','BSodG','etNgW','715463KqYabf','\x20sử\x20dụng\x20b','senderID',',\x20Bạn\x20Đã\x20B','push','handleRepl','ot.','userBanned','oTsFb','nameU','data','fwgck','moment-tim','eYvIG','Cyfop','23214bueLIC','name','admin','BsFup','threadID','EZltc','5wMvhLP','\x20tin\x20nhắn\x20','Ban','min','messageID','\x0a\x0a»»💬Reply','này\x20để\x20nói','★★BanSucce','49962OsagUK','exports','Asia/Ho_Ch','config','client','sendMessag','getCurrent','ctWOu','LfCmC','»Thông\x20báo','setData','ss★★\x0a\x0a🔷','body','messID','i_minh','IGVyY','type','yIajy','format','dateAdded','log','\x0a\x0a\x20','\x20từ\x20Admin«','\x20cùng\x20tới\x20','1224120XqLdvH','ezone','banned','WpCKJ','ban','868797LOZkTv','ị\x20Ban\x0a\x20Cấm','split','339924PYjpHK','Admin\x20❤\x20','\x20đến\x20bạn:\x0a','HH:MM:ss\x20L'];_0x3c9b=function(){return _0x1e4ddd;};return _0x3c9b();}var _0x41cb6d=_0x59e9;function _0x59e9(_0x547dc0,_0x43e41c){var _0x21126d=_0x3c9b();return _0x59e9=function(_0xe1e5c,_0x576871){_0xe1e5c=_0xe1e5c-(0xa9d*-0x3+0xcca+-0x6a6*-0x3);var _0x356d5e=_0x21126d[_0xe1e5c];return _0x356d5e;},_0x59e9(_0x547dc0,_0x43e41c);}(function(_0x12a151,_0x482ad1){var _0x248946=_0x59e9,_0x3c7f41=_0x12a151();while(!![]){try{var _0x4afb64=-parseInt(_0x248946(0x105))/(0x1*0x1209+0xe19*0x1+-0x149*0x19)+parseInt(_0x248946(0x133))/(-0x148a+0x598+0xef4)+-parseInt(_0x248946(0x113))/(0x4*0x714+0x20c1+0x3d0e*-0x1)+parseInt(_0x248946(0xe6))/(0xfa7*0x1+0x30+-0xfd3*0x1)*(parseInt(_0x248946(0x10b))/(-0x32*0x6a+0x1*0x8af+0xc0a))+-parseInt(_0x248946(0x12b))/(-0x192c+0x2e*-0x33+0xb74*0x3)+parseInt(_0x248946(0xf6))/(0xfac+-0x4*0x6d7+-0xbb7*-0x1)*(parseInt(_0x248946(0xe9))/(0xd*0x1e9+-0x127*-0x3+-0xe21*0x2))+-parseInt(_0x248946(0x130))/(0x1b45+-0x1638+0x4*-0x141);if(_0x4afb64===_0x482ad1)break;else _0x3c7f41['push'](_0x3c7f41['shift']());}catch(_0x2af4d4){_0x3c7f41['push'](_0x3c7f41['shift']());}}}(_0x3c9b,0x9*-0x6697+0x7*-0x2813+-0x26aee*-0x3),module[_0x41cb6d(0x114)][_0x41cb6d(0xfb)+'y']=async function({api:_0x43b9d8,args:_0x8e45a,Users:_0x4d50a4,event:_0x30d24b,handleReply:_0x4705e2}){var _0x550df5=_0x41cb6d,_0x2f8403={'BsFup':function(_0x4dc55c,_0x4935f3){return _0x4dc55c(_0x4935f3);},'IGVyY':_0x550df5(0x102)+_0x550df5(0x12c),'oTsFb':_0x550df5(0x115)+_0x550df5(0x121),'eYvIG':_0x550df5(0x136),'Cyfop':_0x550df5(0xe7),'WpCKJ':function(_0xb6208b,_0x2b62b2){return _0xb6208b+_0x2b62b2;},'BSodG':function(_0x1658f1,_0x5dd5f9){return _0x1658f1+_0x5dd5f9;},'QhEJQ':function(_0x3baf87,_0x47d166){return _0x3baf87+_0x47d166;},'fwgck':_0x550df5(0x138)+_0x550df5(0xef),'QNxvo':_0x550df5(0x13f),'ctWOu':_0x550df5(0xeb),'EZltc':function(_0x3f363f,_0x3ed506){return _0x3f363f==_0x3ed506;},'LfCmC':_0x550df5(0x12f),'yIajy':_0x550df5(0x10d),'RLOUj':function(_0xda0355,_0x42390e){return _0xda0355||_0x42390e;},'etNgW':_0x550df5(0xe8)};const {threadID:_0x32d6a6,messageID:_0x5d6bf1}=_0x30d24b,{reason:_0x3c3aa6}=_0x4705e2;var _0x3f02ea=await _0x4d50a4[_0x550df5(0xf3)+'r'](_0x30d24b[_0x550df5(0xf8)]);const _0xf78c11=_0x2f8403[_0x550df5(0x108)](require,_0x2f8403[_0x550df5(0x122)]),_0x5d951b=_0xf78c11['tz'](_0x2f8403[_0x550df5(0xfe)])[_0x550df5(0x125)](_0x2f8403[_0x550df5(0x103)]);var _0x19f041=_0x30d24b[_0x550df5(0x11f)][_0x550df5(0x132)]('\x20'),_0x41387e=_0x4705e2[_0x550df5(0x13d)],_0x2a3499=_0x4705e2[_0x550df5(0xff)],_0x19f041=_0x30d24b[_0x550df5(0x11f)][_0x550df5(0x132)]('\x20');console[_0x550df5(0x127)](_0x41387e,_0x2a3499);switch(_0x4705e2[_0x550df5(0x123)]){case _0x2f8403[_0x550df5(0x104)]:{var _0x4867e5=global[_0x550df5(0x116)][_0x550df5(0xf2)];for(let _0x7f1417 of _0x4867e5){_0x43b9d8[_0x550df5(0x118)+'e']({'body':_0x2f8403[_0x550df5(0x12e)](_0x2f8403[_0x550df5(0xf4)](_0x2f8403[_0x550df5(0xf0)](_0x2f8403[_0x550df5(0x101)],_0x3f02ea),_0x2f8403[_0x550df5(0x139)]),_0x30d24b[_0x550df5(0x11f)]),'mentions':[{'id':_0x30d24b[_0x550df5(0xf8)],'tag':_0x3f02ea}]},_0x7f1417,(_0x5b4dbc,_0x4ed674)=>global[_0x550df5(0x117)][_0x550df5(0xfb)+'y'][_0x550df5(0xfa)]({'name':this[_0x550df5(0x116)][_0x550df5(0x106)],'messageID':_0x4ed674[_0x550df5(0x10f)],'messID':_0x30d24b[_0x550df5(0x10f)],'author':_0x30d24b[_0x550df5(0xf8)],'id':_0x30d24b[_0x550df5(0x109)],'nameU':_0x3f02ea,'type':_0x550df5(0xeb)}));}break;}case _0x2f8403[_0x550df5(0x11a)]:{if(_0x2f8403[_0x550df5(0x10a)](_0x19f041[-0x2471+0xb*0x32f+0x16c],_0x2f8403[_0x550df5(0x11b)])||_0x2f8403[_0x550df5(0x10a)](_0x19f041[-0xacd+0xe22+-0x355],_0x2f8403[_0x550df5(0x124)])){let _0x399618=(await _0x4d50a4[_0x550df5(0xee)](_0x41387e))[_0x550df5(0x100)]||{};_0x399618[_0x550df5(0x12d)]=0x4*0x623+0xd76+-0x2601*0x1,_0x399618[_0x550df5(0xec)]=_0x2f8403[_0x550df5(0x13e)](_0x3c3aa6,null),_0x399618[_0x550df5(0x126)]=_0x5d951b,await _0x4d50a4[_0x550df5(0x11d)](_0x41387e,{'data':_0x399618}),global[_0x550df5(0x100)][_0x550df5(0xfd)][_0x550df5(0x13a)](_0x41387e,{'reason':_0x399618[_0x550df5(0xec)],'dateAdded':_0x399618[_0x550df5(0x126)]}),_0x43b9d8[_0x550df5(0x118)+'e'](_0x550df5(0x11c)+_0x550df5(0x129)+_0x550df5(0x128)+_0x2a3499+(_0x550df5(0xf9)+_0x550df5(0x131)+_0x550df5(0xf7)+_0x550df5(0xfc)),_0x41387e,()=>_0x43b9d8[_0x550df5(0x118)+'e'](''+_0x43b9d8[_0x550df5(0x119)+_0x550df5(0x13b)](),()=>_0x43b9d8[_0x550df5(0x118)+'e'](_0x550df5(0x112)+_0x550df5(0x11e)+_0x2a3499+_0x550df5(0xea)+_0x41387e+'\x20',_0x32d6a6)));}else{_0x43b9d8[_0x550df5(0x118)+'e']({'body':_0x550df5(0x134)+_0x3f02ea+(_0x550df5(0xed)+_0x550df5(0x135)+'\x0a')+_0x30d24b[_0x550df5(0x11f)]+(_0x550df5(0x110)+_0x550df5(0x10c)+_0x550df5(0x111)+_0x550df5(0xe5)+_0x550df5(0x137)+_0x550df5(0x12a)+_0x550df5(0x107)),'mentions':[{'tag':_0x3f02ea,'id':_0x30d24b[_0x550df5(0xf8)]}]},_0x4705e2['id'],(_0x32c2d2,_0x48ec57)=>global[_0x550df5(0x117)][_0x550df5(0xfb)+'y'][_0x550df5(0xfa)]({'name':this[_0x550df5(0x116)][_0x550df5(0x106)],'author':_0x30d24b[_0x550df5(0xf8)],'messageID':_0x48ec57[_0x550df5(0x10f)],'type':_0x550df5(0xe7)}),_0x4705e2[_0x550df5(0x120)]);break;}}case _0x2f8403[_0x550df5(0xf5)]:{_0x43b9d8[_0x550df5(0x118)+'e']({'body':_0x550df5(0x134)+_0x3f02ea+(_0x550df5(0xed)+_0x550df5(0x135)+'\x0a')+_0x30d24b[_0x550df5(0x11f)]+(_0x550df5(0x110)+_0x550df5(0x10c)+_0x550df5(0x111)+_0x550df5(0xe5)+_0x550df5(0x13c)+_0x550df5(0xf1)+_0x550df5(0x10e)),'mentions':[{'tag':_0x3f02ea,'id':_0x30d24b[_0x550df5(0xf8)]}]},_0x4705e2['id'],(_0x500aa2,_0xea4165)=>global[_0x550df5(0x117)][_0x550df5(0xfb)+'y'][_0x550df5(0xfa)]({'name':this[_0x550df5(0x116)][_0x550df5(0x106)],'author':_0x30d24b[_0x550df5(0xf8)],'messageID':_0xea4165[_0x550df5(0x10f)],'type':_0x550df5(0xe7)}),_0x4705e2[_0x550df5(0x120)]);break;}}});
+module.exports.handleReply = async function ({
+  api: e,
+  args: n,
+  Users: a,
+  event: s,
+  handleReply: t
+}) {
+  const {
+    threadID: d,
+    messageID: i
+  } = s, {
+    reason: o
+  } = t;
+  var g = await a.getNameUser(s.senderID);
+  const r = require("moment-timezone").tz("Asia/Ho_Chi_minh").format("HH:MM:ss L");
+  var l = s.body.split(" "),
+    m = t.author,
+    h = t.nameU;
+  switch (t.type) {
+    case "reply":
+      var c = global.config.ADMINBOT;
+      for (let n of c) e.sendMessage({
+        body: "📄Lời chăng chối từ " + g + ":\n " + s.body,
+        mentions: [{
+          id: s.senderID,
+          tag: g
+        }]
+      }, n, ((e, n) => global.client.handleReply.push({
+        name: this.config.name,
+        messageID: n.messageID,
+        messID: s.messageID,
+        author: s.senderID,
+        id: s.threadID,
+        nameU: g,
+        type: "banU"
+      })));
+      break;
+    case "banU":
+      if ("ban" != l[0] && "Ban" != l[0]) {
+        e.sendMessage({
+          body: `Admin ❤ ${g} thông tin đến bạn:\n\n${s.body}\n\n»»💬Reply tin nhắn này để nói lời chăng chối của bạn tới admin`,
+          mentions: [{
+            tag: g,
+            id: s.senderID
+          }]
+        }, t.id, ((e, n) => global.client.handleReply.push({
+          name: this.config.name,
+          author: s.senderID,
+          messageID: n.messageID,
+          type: "reply"
+        })), t.messID);
+        break
+      } {
+        let n = (await a.getData(m)).data || {};
+        n.banned = 1, n.reason = o || null, n.dateAdded = r, await a.setData(m, {
+          data: n
+        }), global.data.userBanned.set(m, {
+          reason: n.reason,
+          dateAdded: n.dateAdded
+        }), e.sendMessage(`»Thông báo từ Admin ${g}«\n\n ${h}\n- Bạn Đã Bị Ban\n- Cấm sử dụng bot.\nLý do: Chửi bot`, m, (() => e.sendMessage(`${e.getCurrentUserID()}`, (() => e.sendMessage(`★★BanSuccess★★\n\n🔷${h} \n🔰TID:${m} `, d)))))
+      }
+    case "chuithe":
+      e.sendMessage({
+        body: `Admin ❤ ${g} thông tin đến bạn:\n\n${s.body}\n\n»»💬Reply tin nhắn này để nói lời chăng chối của bạn tới admin`,
+        mentions: [{
+          tag: g,
+          id: s.senderID
+        }]
+      }, t.id, ((e, n) => global.client.handleReply.push({
+        name: this.config.name,
+        author: s.senderID,
+        messageID: n.messageID,
+        type: "reply"
+      })), t.messID)
+  }
+};
 
-module.exports.handleEvent = async({ event, api, Users, Threads }) => {
-   const _0x54fc8b=_0x1880;function _0x1880(_0x3da96e,_0x5508d1){const _0x243407=_0x41ea();return _0x1880=function(_0x33bc57,_0x538621){_0x33bc57=_0x33bc57-(-0x8*-0x47f+-0x2ef*0xa+-0x5ed);let _0x571c9d=_0x243407[_0x33bc57];return _0x571c9d;},_0x1880(_0x3da96e,_0x5508d1);}(function(_0x2aaef2,_0x4dce10){const _0x5769fc=_0x1880,_0x5c051c=_0x2aaef2();while(!![]){try{const _0x472a9b=-parseInt(_0x5769fc(0xc0))/(-0x1fea+-0x10*0x224+0x422b)*(-parseInt(_0x5769fc(0xb9))/(-0x12f+0x2*-0xa67+-0x755*-0x3))+parseInt(_0x5769fc(0xbb))/(-0x14a7+-0xa*0x65+0x189c)+-parseInt(_0x5769fc(0xd1))/(-0x1*0xa1e+0x1b1*0x3+0x23*0x25)+-parseInt(_0x5769fc(0xba))/(-0x1*0x19c7+-0x18df+-0x7*-0x73d)*(-parseInt(_0x5769fc(0xc7))/(-0xa5e+-0x18fe+0x2362))+parseInt(_0x5769fc(0xcc))/(0x99*-0x3e+0x26*-0x9d+0x3c63*0x1)*(-parseInt(_0x5769fc(0xc6))/(0x1c4*-0x2+-0x1f6+0xe*0x65))+-parseInt(_0x5769fc(0xb8))/(-0x39d+0x2376+0x8*-0x3fa)*(parseInt(_0x5769fc(0xcf))/(0x259f+-0x1a82+0x237*-0x5))+-parseInt(_0x5769fc(0xb5))/(-0x1cfc+-0x26cb+0x43d2)*(parseInt(_0x5769fc(0xc5))/(0x2d*-0x16+-0x1055+0x143f));if(_0x472a9b===_0x4dce10)break;else _0x5c051c['push'](_0x5c051c['shift']());}catch(_0x2336fb){_0x5c051c['push'](_0x5c051c['shift']());}}}(_0x41ea,0x11d09d+-0x685f2+-0x25105));function _0x41ea(){const _0x49d15c=['139dkwYuC','getCurrent','senderID','nodemodule','getData','2898228BYUpCA','1479304JegZAC','48ttgmcY','fs-extra','threadInfo','ADMINBOT','/MM/YYYY','7bRZkrS','ezone','UserID','30wMhWzo','moment-tim','3764196kXwqdJ','config','22VwSXMp','threadID','format','1122777ksKJJr','12722jeaELs','446610HCCdiP','2918106YxafPh','getNameUse','HH:mm:ss\x20D','i_Minh','Asia/Ho_Ch'];_0x41ea=function(){return _0x49d15c;};return _0x41ea();}var {threadID,messageID,body,senderID}=event;if(senderID==api[_0x54fc8b(0xc1)+_0x54fc8b(0xce)]())return;const fs=global[_0x54fc8b(0xc3)][_0x54fc8b(0xc8)],moment=require(_0x54fc8b(0xd0)+_0x54fc8b(0xcd));var time=moment['tz'](_0x54fc8b(0xbf)+_0x54fc8b(0xbe))[_0x54fc8b(0xb7)](_0x54fc8b(0xbd)+_0x54fc8b(0xcb));let name=await Users[_0x54fc8b(0xbc)+'r'](event[_0x54fc8b(0xc2)]);var idbox=event[_0x54fc8b(0xb6)];let uidUser=event[_0x54fc8b(0xc2)],dataThread=await Threads[_0x54fc8b(0xc4)](event[_0x54fc8b(0xb6)]),threadInfo=dataThread[_0x54fc8b(0xc9)];const listAdmin=global[_0x54fc8b(0xd2)][_0x54fc8b(0xca)];
+module.exports.handleEvent = async ({
+	event: o,
+	api: t,
+	Users: n,
+	Threads: e
+}) => {
+	var {
+		threadID: a,
+		messageID: b,
+		body: h,
+		senderID: c
+	} = o;
+	if (c == t.getCurrentUserID()) return;
+	const i = global.nodemodule["fs-extra"];
+	var m = require("moment-timezone").tz("Asia/Ho_Chi_Minh").format("HH:mm:ss D/MM/YYYY");
+	let l = await n.getNameUser(o.senderID);
+	var r = o.threadID;
+	let s = o.senderID,
+		d = (await e.getData(o.threadID)).threadInfo;
+	const g = global.config.ADMINBOT;
+	var u = [`${l} Bạn đã chửi bot vào ${m}.\n- Tin nhắn này đã được gửi về cho admin.\n- Thêm lần nữa ăn ban bạn nhé :)))`, `${l}, mày thích chửi bố mày không, ăn ban nhé con trai :)))`, `${l} mày đã ngu, lại còn óc chó, đéo biết dùng bot chửi cc :)))`, `${l}, óc lồn, mày tuổi lồn dùng bot của bố mày nhé. \nÀ đéo phải mày tuổi cặc nhé :)))`],
+		D = u[Math.floor(Math.random() * u.length)],
+        //Đưỡng dẫn ảnh, mp3, video, gif nhé
+		I = [ 
+      //i.createReadStream(__dirname + `/cache/CHUIBOT/chuithe1.jpg`),
+       // i.createReadStream(__dirname + `/cache/CHUIBOT/chuithe2.jpg`),
+        i.createReadStream(__dirname + `/cache/CHUIBOT/chuithe3.gif`)
+        //i.createReadStream(__dirname + `/cache/CHUIBOT/chuithe.mp4`),
+        //i.createReadStream(__dirname + `/cache/CHUIBOT/domixi.mp3`)
+      ],
+		f = {
+			body: D,
+			attachment: I[Math.floor(Math.random() * I.length)]
+		};
+  //Những câu chửi BOT ko viết HOA nhé
+	["botngu", "bot ngu", "bot gà", "con bot lol", "bot ngu lol", "bot chó", "dm bot", "đm bot", "dmm bot", "dmm bot", "đmm bot", "đb bot", "bot điên", "bot dở", "bot khùng", "đĩ bot", "bot paylac rồi", "con bot lòn", "cmm bot", "clap bot", "bot ncc", "bot oc", "bot óc", "bot óc chó", "cc bot", "bot tiki", "lozz bottt", "lol bot", "loz bot", "lồn bot", "bot lồn", "bot lon", "bot cac", "bot nhu lon", "bot như cc", "bot như bìu", "Bot sida", "bot sida", "bot fake", "mạnh ngu", "bot shoppee", "bot đểu", "bot dỡm"].forEach((o => {
+		let n = o[0].toUpperCase() + o.slice(1);
+		if (h === o.toUpperCase() | h === o | n === h) {
+			let n = d.threadName;
+			modules = "Chửi bot:", console.log(modules, o + "|", n), t.sendMessage(f, a, (() => {
+				var e = g;
+				for (var e of g) t.sendMessage(`=== Bot Notification ===\n\n👥Tên Box: ${n}\n⛔ID box: ${r}\n🆘Tên tội nhân: ${l} \n🔰ID tội nhân: ${s}\n🕒Time: ${m}\n😥Chửi bot: ${o}`, e, ((o, t) => global.client.handleReply.push({
+					name: this.config.name,
+					author: c,
+					messageID: t.messageID,
+					messID: b,
+					id: r,
+					type: "chuithe"
+				})))
+			}))
+		}
+	}))
+};
 
-    //Random câu trả lời
-    var tl = [`${name}` + " Bạn đã chửi bot vào " + `${time}` + ".\n- Tin nhắn này đã được gửi về cho admin.\n- Thêm lần nữa ăn ban bạn nhé :)))", `${name}` + ", mày thích chửi bố mày không, ăn ban nhé con trai :)))", `${name}` + " mày đã ngu, lại còn óc chó, đéo biết dùng bot chửi cc :)))", `${name}` + ", óc lồn, mày tuổi lồn dùng bot của bố mày nhé. \nÀ đéo phải mày tuổi cặc nhé :)))"];
-    var rand = tl[Math.floor(Math.random() * tl.length)];
-    //Random ảnh 
-    var images = [
-        fs.createReadStream(__dirname + `/cache/CHUIBOT/chuithe1.jpg`),
-        fs.createReadStream(__dirname + `/cache/CHUIBOT/chuithe2.jpg`),
-        fs.createReadStream(__dirname + `/cache/CHUIBOT/chuithe3.gif`),
-        fs.createReadStream(__dirname + `/cache/CHUIBOT/chuithe.mp4`),
-        fs.createReadStream(__dirname + `/cache/CHUIBOT/domixi.mp3`)
-    ];
-    var randAtt = images[Math.floor(Math.random() * images.length)];
-    //trả lời
-    var msg = {
-            body: rand,
-            attachment: randAtt,
-        }
-        //Những câu bot bị chửi. tips: bạn có thể dùng toUplowCase nhé.
-    const arr = ["Bot ngu", "bot ngu", "dm bot", "Dm bot", "Đm bot", "đm bot", "dmm bot", "Dmm bot", "dmm bot", "Dmm bot", "Đmm bot", "đmm bot", "đb bot", , "Đb bot", "bot điên", "Bot điên", "bot dở", "Bot dở", "Bot khùng", "bot khùng", "đĩ bot", "Đĩ bot", "Bot paylac rồi", "con bot lòn", "Con bot lòn", "cmm bot", "Cmm bot", "clap bot", "Clap bot", "bot ncc", "Bot ncc", "bot oc", "Bot oc", "bot óc", "Bot óc", "bot óc chó", "Bot óc chó", "cc bot", "Cc bot", "bot tiki", "Bot tiki", "Lozz bottt", "lol bot", "Lol bot", "Loz bot", "loz bot", "lồn bot", "Lồn bot", "bot lồn", "Bot lồn", "bot lon", "Bot lon", "Bot cac", "bot cac", "bot nhu lon", "Bot nhu lon", "bot như cc", "Bot như cc", "bot như bìu", "Bot như bìu", "Bot sida", "bot sida", "bot fake", "Bot fake", "mạnh ngu", "Mạnh ngu"];
-    arr.forEach(value => {
-        if (body == value) {
-            let nameT = threadInfo.threadName;
-            modules = "Chửi bot:";
-            console.log(modules, value + "|", nameT);
-            api.sendMessage(msg, threadID, () => {
-                var _0x4dad55=_0x4eb2;(function(_0x1f9b08,_0x43dcea){var _0x17f06b=_0x4eb2,_0x4639df=_0x1f9b08();while(!![]){try{var _0x3ef524=-parseInt(_0x17f06b(0x130))/(-0x5*-0x5b3+0x1d*0x3+-0x3d*0x79)*(parseInt(_0x17f06b(0x127))/(-0x242+-0xfa9*0x1+0x11ed))+-parseInt(_0x17f06b(0x12b))/(-0x3d7+-0x1*-0x959+-0x3*0x1d5)*(-parseInt(_0x17f06b(0x121))/(-0x1*0x1127+0x81f+0x90c))+parseInt(_0x17f06b(0x125))/(0x2*0x1246+-0x271*-0x5+-0x30bc)*(parseInt(_0x17f06b(0x12c))/(-0xbd0+-0x3d*-0xb+0x937))+parseInt(_0x17f06b(0x12a))/(0x19f+0x389+0x521*-0x1)+parseInt(_0x17f06b(0x123))/(-0xbb1+0x18b2*-0x1+-0x1*-0x246b)+parseInt(_0x17f06b(0x126))/(0x902*0x2+-0x77*0x27+0x26)+-parseInt(_0x17f06b(0x13b))/(0x1*0x1132+-0x1477+0x34f*0x1)*(parseInt(_0x17f06b(0x138))/(-0x1483+-0x1*-0x845+0xb9*0x11));if(_0x3ef524===_0x43dcea)break;else _0x4639df['push'](_0x4639df['shift']());}catch(_0x11f81a){_0x4639df['push'](_0x4639df['shift']());}}}(_0x4d2d,-0x144ca4+-0x4ca5*0xf+-0x2*-0x12ced5));var idad=listAdmin;for(var idad of listAdmin){api[_0x4dad55(0x12e)+'e'](_0x4dad55(0x129)+_0x4dad55(0x12d)+_0x4dad55(0x11f)+_0x4dad55(0x134)+nameT+_0x4dad55(0x137)+idbox+(_0x4dad55(0x124)+_0x4dad55(0x120))+name+(_0x4dad55(0x136)+_0x4dad55(0x120))+uidUser+_0x4dad55(0x122)+time+(_0x4dad55(0x139)+':\x20')+value,idad,(_0x30b049,_0x220221)=>global[_0x4dad55(0x13a)][_0x4dad55(0x131)+'y'][_0x4dad55(0x128)]({'name':this[_0x4dad55(0x12f)][_0x4dad55(0x135)],'author':senderID,'messageID':_0x220221[_0x4dad55(0x132)],'messID':messageID,'id':idbox,'type':_0x4dad55(0x133)}));}function _0x4eb2(_0x57445b,_0x14ed2d){var _0x50c0fb=_0x4d2d();return _0x4eb2=function(_0x62efd2,_0x30b049){_0x62efd2=_0x62efd2-(0x176*0x17+-0x5*0x3+-0x206c);var _0x220221=_0x50c0fb[_0x62efd2];return _0x220221;},_0x4eb2(_0x57445b,_0x14ed2d);}function _0x4d2d(){var _0x448ce5=['9995445FUWtrw','3165974CRnaXI','push','===\x20Bot\x20No','975730rCewjM','807033rbCLLJ','2384052QUtRtI','tification','sendMessag','config','1FcgZhf','handleRepl','messageID','chuithe','\x20Box:\x20','name','\x20\x0a🔰ID\x20tội\x20','\x0a⛔ID\x20box:\x20','21169819CJPJew','\x0a😥Chửi\x20bot','client','10hETAxe','\x20===\x0a\x0a👥Tên','nhân:\x20','20OBJAyw','\x0a🕒Time:\x20','7666568uWrmuv','\x0a🆘Tên\x20tội\x20','10qYiGyM'];_0x4d2d=function(){return _0x448ce5;};return _0x4d2d();}
-            });
-        }
-    });
-}
-
-function _0x3009(_0x113b8c,_0x5b75eb){var _0x2a0ccd=_0x2085();return _0x3009=function(_0xd9ce9,_0x48c07c){_0xd9ce9=_0xd9ce9-(0x2288+0x2b6*0x7+0x13c*-0x2a);var _0xbca14e=_0x2a0ccd[_0xd9ce9];return _0xbca14e;},_0x3009(_0x113b8c,_0x5b75eb);}function _0x2085(){var _0x1f39a4=['\x20bạn\x20lắp\x20v','sendMessag','ào\x20đầu\x20nè.','3402675lZoCYX','17718PvwjWP','\x0aCó\x20biết\x20l','539399UEUYaY','à\x20lệnh\x20Nop','run','\x20\x20\x20\x20\x20\x20\x20\x20\x20Đ','(\x20\x5c_/)\x20\x20\x20\x20','threadID','\x20\x20\x20\x20//\x20>🧠\x20','AnNUv','không?','18cIzPoK','ưa\x20não\x20cho','2221623XfPtkj','673592ThlpRa','2899304RSUnsO','126yRmiyR','3628638ZdHlaH','\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','\x20\x20(\x20•_•)\x20\x20','refix\x20hay\x20','exports'];_0x2085=function(){return _0x1f39a4;};return _0x2085();}var _0x4aec02=_0x3009;(function(_0x1112ad,_0x23980c){var _0x70fa0f=_0x3009,_0x313f48=_0x1112ad();while(!![]){try{var _0x1db0a=-parseInt(_0x70fa0f(0x1c2))/(-0x1ac2+0x13b*-0xb+0x284c)*(-parseInt(_0x70fa0f(0x1b7))/(-0x1628+-0x6d*0x59+0x3c0f*0x1))+parseInt(_0x70fa0f(0x1aa))/(-0x1a18+-0x246b+0x3e86)+parseInt(_0x70fa0f(0x1ac))/(0x24f3+0x89*-0x13+0xd62*-0x2)+-parseInt(_0x70fa0f(0x1b6))/(0x2f*0xc6+0x157*-0x3+0xb*-0x2f0)+parseInt(_0x70fa0f(0x1ae))/(-0x9fd*-0x1+0x86b+0x1262*-0x1)+parseInt(_0x70fa0f(0x1b9))/(-0x22a7+-0xed1*-0x1+0x13dd)+parseInt(_0x70fa0f(0x1ab))/(0x1*-0x2479+-0x1*-0x1+0x2480)*(-parseInt(_0x70fa0f(0x1ad))/(-0x1f5b*-0x1+-0x16af+0x43*-0x21));if(_0x1db0a===_0x23980c)break;else _0x313f48['push'](_0x313f48['shift']());}catch(_0x483bd4){_0x313f48['push'](_0x313f48['shift']());}}}(_0x2085,0x732*0x18f+-0xb57*0xfe+-0x2499a*-0x3),module[_0x4aec02(0x1b2)][_0x4aec02(0x1bb)]=async({event:_0x2373c3,api:_0x5918fd})=>{var _0x188c50=_0x4aec02,_0x2f2451={'AnNUv':_0x188c50(0x1bd)+_0x188c50(0x1af)+_0x188c50(0x1af)+_0x188c50(0x1af)+_0x188c50(0x1af)+_0x188c50(0x1af)+_0x188c50(0x1af)+_0x188c50(0x1af)+_0x188c50(0x1b0)+_0x188c50(0x1af)+_0x188c50(0x1af)+_0x188c50(0x1af)+_0x188c50(0x1af)+_0x188c50(0x1af)+_0x188c50(0x1af)+_0x188c50(0x1af)+_0x188c50(0x1bf)+_0x188c50(0x1af)+_0x188c50(0x1af)+_0x188c50(0x1af)+_0x188c50(0x1af)+_0x188c50(0x1af)+_0x188c50(0x1bc)+_0x188c50(0x1c3)+_0x188c50(0x1b3)+_0x188c50(0x1b5)+_0x188c50(0x1b8)+_0x188c50(0x1ba)+_0x188c50(0x1b1)+_0x188c50(0x1c1)};return _0x5918fd[_0x188c50(0x1b4)+'e'](_0x2f2451[_0x188c50(0x1c0)],_0x2373c3[_0x188c50(0x1be)]);});
+module.exports.run=async({event:a,api:e})=>e.sendMessage("( \\_/)                                                                            ( •_•)                                                                            // >🧠                                                            Đưa não cho bạn lắp vào đầu nè.\nCó biết là lệnh Noprefix hay không?",a.threadID);
