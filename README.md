@@ -30,6 +30,7 @@
 - **covid** - Lấy thông tin về tình hình dịch bệnh COVID-19 [K/D/A] : [commands/covid.js](https://github.com/manhkhac/modules-v2/blob/master/modules/commands/covid.js)
 - **callad** - Chỉ là bản callad đã fix get user/thread : [commands/callad.js](https://github.com/manhkhac/modules-v2/blob/master/modules/commands/callad.js)
 - **resend** - Chỉ là bản resend đã fix bật tắt version > 1.2.13 : [commands/resend.js](https://github.com/manhkhac/modules-v2/blob/master/modules/commands/resend.js)
+- **tagadmin** - Chỉ đơn giản là fix lỗi log + list admin tự động : [commands/tagadmin.js](https://github.com/manhkhac/modules-v2/blob/master/modules/commands/tagadmin.js)
 - **demngayyeu** - Chỉ đơn giản là đếm số ngày đã yêu nhau của ai đó : [commands/demngayyeu.js](https://github.com/manhkhac/modules-v2/blob/master/modules/commands/demngayyeu.js)
 
 # Tác Giả
