@@ -28,8 +28,8 @@
 - **fixspam-chuibot** - Chửi bot sẽ bị ban ngay tại thời điểm nói( lưu ý: Không sử dụng chung với modules chuibot ): [commands/fixspam-chuibot.js](modules/commands/fixspam-chuibot.js)
 - **ytbmp4** - Phát video thông qua link YouTube hoặc từ khoá tìm kiếm: [commands/ytbmp4.js](modules/commands/ytbmp4.js)
 - **covid** - Lấy thông tin về tình hình dịch bệnh COVID-19 [K/D/A] : [commands/covid.js](modules/commands/covid.js)
-- **callad** - Chỉ là bản callad đã fix get user/thread : [commands/callad.js](modules/commands/callad.js)
-- **resend** - Chỉ là bản resend đã fix bật tắt version > 1.2.13 : [commands/resend.js](modules/commands/resend.js)
+- **callad** - Fix get user/thread : [commands/callad.js](modules/commands/callad.js)
+- **resend** - Fix bật tắt version > 1.2.13 : [commands/resend.js](modules/commands/resend.js)
 - **tagadmin** - Fix lỗi log + list admin tự động + on/off theo box : [commands/tagadmin.js](modules/commands/tagadmin.js)
 - **demngayyeu** - Đếm số ngày đã yêu nhau của ai đó : [commands/demngayyeu.js](modules/commands/demngayyeu.js)
 
