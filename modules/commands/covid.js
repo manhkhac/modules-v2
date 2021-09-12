@@ -22,9 +22,11 @@ module.exports.config = {
 	getText: a
 }) {
 	const t = global.nodemodule.axios;
-	let i = await t.get("https://static.pipezero.com/covid/data.json");
-	var o = (await i.data).today,
-		s = (await i.data).overview[6],
-		d = o.world || {};
-	return e.sendMessage(a("return", d.cases, d.recovered, d.death, s.cases, s.treating, s.recovered, s.death, s.avgCases7day, s.avgRecovered7day, s.avgDeath7day, s.date), n.threadID, n.messageID)
+	var i = require("moment-timezone").tz("Asia/Ho_Chi_Minh").format("YYYY");
+	let o = await t.get("https://static.pipezero.com/covid/data.json");
+	var s = (await o.data).today,
+		r = (await o.data).overview[6],
+		d = s.world || {},
+		h = r.date + "-" + i;
+	return e.sendMessage(a("return", d.cases, d.recovered, d.death, r.cases, r.treating, r.recovered, r.death, r.avgCases7day, r.avgRecovered7day, r.avgDeath7day, h), n.threadID, n.messageID)
 };
