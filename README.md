@@ -25,7 +25,7 @@
 - **bans** - Ban thành viên nhóm dành cho QTV box sử dụng: [commands/bans.js](modules/commands/bans.js)
 - **allbox** - Xem tất cả nhóm[data] đã tham gia(phân trang), bạn có thể reply theo số thự tự để ban, unban, out nhóm đó: [commands/allbox.js](modules/commands/allbox.js)
 - **listbox** - Xem tất cả nhóm hiện tại đã tham gia(phân trang), bạn có thể reply theo số thự tự để ban, unban, out nhóm đó: [commands/listbox.js](modules/commands/listbox.js)
-- **fixspam** - Chửi bot sẽ bị ban ngay tại thời điểm nói( lưu ý: Không sử dụng chung với modules chuibot ): [commands/fixspam.js](modules/commands/fixspam-chuibot.js)
+- **fixspam** - Chửi bot sẽ bị ban ngay tại thời điểm nói( lưu ý: Không sử dụng chung với modules chuibot ): [commands/fixspam.js](modules/commands/fixspam.js)
 - **ytbmp4** - Phát video thông qua link YouTube hoặc từ khoá tìm kiếm: [commands/ytbmp4.js](modules/commands/ytbmp4.js)
 - **covid** - Lấy thông tin về tình hình dịch bệnh COVID-19 [K/D/A] : [commands/covid.js](modules/commands/covid.js)
 - **callad** - Fix get user/thread : [commands/callad.js](modules/commands/callad.js)
