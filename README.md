@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img src="https://github.com/manhkhac/mirai-1.2.8/raw/data/img/mm.png" alt="">
+	<img src="https://raw.githubusercontent.com/manhkhac/mirai-1.2.8/data/img/console.png" alt="">
 </h1>
 
 <p align="center">
@@ -32,6 +32,7 @@
 - **resend** - Fix bật tắt version > 1.2.13 : [commands/resend.js](modules/commands/resend.js)
 - **tagadmin** - Fix lỗi log + list admin tự động + on/off theo box : [commands/tagadmin.js](modules/commands/tagadmin.js)
 - **demngayyeu** - Đếm số ngày đã yêu nhau của ai đó : [commands/demngayyeu.js](modules/commands/demngayyeu.js)
+- **console** - Đếm số ngày đã yêu nhau của ai đó : [commands/console.js](modules/commands/console.js)
 
 # Tác Giả
 - **ManhG** - [GitHub](https://github.com/manhkhac) - [Facebook](https://www.facebook.com/manhict)
