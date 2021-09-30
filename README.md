@@ -12,7 +12,7 @@
 
 # Module hỗ trợ cho source [MiraiPr0ject/Miraiv2](https://github.com/miraiPr0ject/miraiv2)
 
-# Cập nhật: 11/09/2021
+# Cập nhật: 01/10/2021 public module: consolog
 
 # Vị Trí Lưu
 - Module command: [modules/commands](https://github.com/miraiPr0ject/miraiv2/tree/main/modules/commands)
@@ -35,6 +35,7 @@
 - **console** - Đếm số ngày đã yêu nhau của ai đó : [commands/console.js](modules/commands/console.js)
 
 # Tác Giả
+- Trên đây chỉ là 80% của modules, khuyết 20%(độ xịn xò) cao cấp hơn nhé.
 - **ManhG** - [GitHub](https://github.com/manhkhac) - [Facebook](https://www.facebook.com/manhict)
 
 # License
