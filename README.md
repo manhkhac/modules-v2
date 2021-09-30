@@ -32,7 +32,7 @@
 - **resend** - Fix bật tắt version > 1.2.13 : [commands/resend.js](modules/commands/resend.js)
 - **tagadmin** - Fix lỗi log + list admin tự động + on/off theo box : [commands/tagadmin.js](modules/commands/tagadmin.js)
 - **demngayyeu** - Đếm số ngày đã yêu nhau của ai đó : [commands/demngayyeu.js](modules/commands/demngayyeu.js)
-- **console** - Đếm số ngày đã yêu nhau của ai đó : [commands/console.js](modules/commands/console.js)
+- **console** - Xem console đẹp hơn : [commands/console.js](modules/commands/console.js)
 
 # Tác Giả
 - Trên đây chỉ là 80% của modules, khuyết 20%(độ xịn xò) cao cấp hơn nhé.
