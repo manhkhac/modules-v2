@@ -1,14 +1,14 @@
 {
-	"version": "1.0.1",
-	"change": ["listban"],
+	"version": "1.0.0",
+	"change": [""],
 	"modules": {
 		"commands": {
-			"chuibot": "2.0.0",
-			"listban": "3.1.2",
-			"random": "3.1.2",
-			"goibot": "1.1.0",
-			"allbox": "1.0.0",
-			"bans": "1.1.2",
+		        "manhg": "1.0.0",
+		        "fixspam": "1.0.0",
+			"listban": "1.0.0",
+		      	"listbox": "1.0.0",
+		      	"allbox": "1.0.0",
+		     	"sim": "1.0.0"
 		},
 		"events": {
 		}
