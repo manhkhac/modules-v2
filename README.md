@@ -12,7 +12,7 @@
 
 # Module hỗ trợ cho source [MiraiPr0ject/Miraiv2](https://github.com/miraiPr0ject/miraiv2)
 
-# Cập nhật: 01/10/2021 public module: consolog
+# Cập nhật: 07/10/2021 public module: unban
 
 # Vị Trí Lưu
 - Module command: [modules/commands](https://github.com/miraiPr0ject/miraiv2/tree/main/modules/commands)
@@ -33,6 +33,7 @@
 - **tagadmin** - Fix lỗi log + list admin tự động + on/off theo box : [commands/tagadmin.js](modules/commands/tagadmin.js)
 - **demngayyeu** - Đếm số ngày đã yêu nhau của ai đó : [commands/demngayyeu.js](modules/commands/demngayyeu.js)
 - **console** - Xem console đẹp hơn : [commands/console.js](modules/commands/console.js)
+- **unban** - Gỡ ban 1 nhóm/toàn bộ nhóm/người dùng/quản trị viên/admin bot 1 cách nhanh chóng : [commands/unban.js](modules/commands/unban.js)
 
 # Tác Giả
 - Trên đây chỉ là 80% của modules, khuyết 20%(độ xịn xò) cao cấp hơn nhé.
