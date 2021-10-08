@@ -69,6 +69,5 @@ module.exports.config = {
 			}
 			break;
 		default:
-			e.sendMessage(`B\u1ea1n c\xf3 th\u1ec3 d\xf9ng:\\n\\n${c}${this.config.name} admin => g\u01a1\u0303 ban cho toa\u0300n b\xf4\u0323 admin bot\\n\\n${c}${this.config.name} box => g\u01a1\u0303 ban cho nho\u0301m hi\xea\u0323n ta\u0323i [1 nho\u0301m ]\\n\\n${c}${this.config.name} qtv => g\u01a1\u0303 ban cho toa\u0300n b\xf4\u0323 QTV Box [1 box ]\\n\\n${c}${this.config.name} member => g\u01a1\u0303 ban cho toa\u0300n b\xf4\u0323 tha\u0300nh vi\xean trong nho\u0301m [1 nho\u0301m ]\\n\\n${c}${this.config.name} member @[tag] => g\u01a1\u0303 ban cho ng\u01b0\u01a1\u0300i \u0111\u01b0\u01a1\u0323c tag`, d, o)\n\t}
-};
+			e.sendMessage(`Bạn có thể dùng:\n\n${c}${this.config.name} admin => gỡ ban cho toàn bộ admin bot\n\n${c}${this.config.name} box => gỡ ban cho nhóm hiện tại [1 nhóm ]\n\n${c}${this.config.name} qtv => gỡ ban cho toàn bộ QTV Box [1 box ]\n\n${c}${this.config.name} member => gỡ ban cho toàn bộ thành viên trong nhóm [1 nhóm ]\n\n${c}${this.config.name} member @[tag] => gỡ ban cho người được tag`, d, o)};
 ///////////////////////// ManhG end
