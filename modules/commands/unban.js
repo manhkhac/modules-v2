@@ -69,5 +69,7 @@ module.exports.config = {
 			}
 			break;
 		default:
-			e.sendMessage(`Bạn có thể dùng:\n\n${c}${this.config.name} admin => gỡ ban cho toàn bộ admin bot\n\n${c}${this.config.name} box => gỡ ban cho nhóm hiện tại [1 nhóm ]\n\n${c}${this.config.name} qtv => gỡ ban cho toàn bộ QTV Box [1 box ]\n\n${c}${this.config.name} member => gỡ ban cho toàn bộ thành viên trong nhóm [1 nhóm ]\n\n${c}${this.config.name} member @[tag] => gỡ ban cho người được tag`, d, o)};
+			e.sendMessage(`Bạn có thể dùng:\n\n${c}${this.config.name} admin => gỡ ban cho toàn bộ admin bot\n\n${c}${this.config.name} box => gỡ ban cho nhóm hiện tại [1 nhóm ]\n\n${c}${this.config.name} qtv => gỡ ban cho toàn bộ QTV Box [1 box ]\n\n${c}${this.config.name} member => gỡ ban cho toàn bộ thành viên trong nhóm [1 nhóm ]\n\n${c}${this.config.name} member @[tag] => gỡ ban cho người được tag`, d, o)
+         }
+};
 ///////////////////////// ManhG end
