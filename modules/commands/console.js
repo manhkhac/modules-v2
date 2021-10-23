@@ -3,7 +3,7 @@ module.exports.config = {
   version: "1.0.0",
   hasPermssion: 1,
   credits: "ManhG",
-  description: "Bật tắt console",
+  description: "console",
   commandCategory: "admin",
   depndencies: { "chalk": "" },
   usages: "",
