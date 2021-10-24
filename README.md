@@ -12,7 +12,7 @@
 
 # Module hỗ trợ cho source [MiraiPr0ject/Miraiv2](https://github.com/miraiPr0ject/miraiv2)
 
-# Cập nhật: 07/10/2021 public module: unban
+# Cập nhật: 24/10/2021
 
 # Vị Trí Lưu
 - Module command: [modules/commands](https://github.com/miraiPr0ject/miraiv2/tree/main/modules/commands)
