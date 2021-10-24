@@ -36,7 +36,7 @@
 - **unban** - Gỡ ban 1 nhóm/toàn bộ nhóm/người dùng/tag/quản trị viên/admin bot 1 cách nhanh chóng : [commands/unban.js](modules/commands/unban.js)
 
 # Tác Giả
-- Trên đây chỉ là 80% của modules, khuyết 20%(độ xịn xò) cao cấp hơn nhé.
+- Trên đây chỉ là 85% của modules, khuyết 15% cao cấp hơn nhé.
 - **ManhG** - [GitHub](https://github.com/manhkhac) - [Facebook](https://www.facebook.com/manhict)
 
 # License
