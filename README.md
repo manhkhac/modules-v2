@@ -35,7 +35,7 @@
 - **console** - Xem console đẹp hơn : [commands/console.js](modules/commands/console.js)
 - **unban** - Gỡ ban 1 nhóm/toàn bộ nhóm/người dùng/tag/quản trị viên/admin bot 1 cách nhanh chóng : [commands/unban.js](modules/commands/unban.js)
 - **prefix** - Xem prefix(dấu lệnh) của bot chuẩn 100% : [commands/prefix.js](modules/commands/prefix.js)
-- **csluser** - Xem console với tên user và tin nhắn( lưu ý: Không sử dụng chung với modules console ) : [commands/csluser.js](modules/commands/csluser.js)
+- **csluser** - [Fix masspeed] Xem console với tên user và tin nhắn( lưu ý: Không sử dụng chung với modules console ) : [commands/csluser.js](modules/commands/csluser.js)
 
 # Tác Giả
 - Trên đây chỉ là 85% của modules, khuyết 15% cao cấp hơn nhé.
