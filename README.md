@@ -36,6 +36,7 @@
 - **unban** - Gỡ ban 1 nhóm/toàn bộ nhóm/người dùng/tag/quản trị viên/admin bot 1 cách nhanh chóng : [commands/unban.js](modules/commands/unban.js)
 - **prefix** - Xem prefix(dấu lệnh) của bot chuẩn 100% : [commands/prefix.js](modules/commands/prefix.js)
 - **csluser** - [Fix masspeed] Xem console với tên user và tin nhắn( lưu ý: Không sử dụng chung với modules console ) : [commands/csluser.js](modules/commands/csluser.js)
+- **locmem** - Lọc mem theo hình thức reply số thứ tự ( 0 tin nhắn và người dùng fb) : [commands/locmem.js](modules/commands/locmem.js)
 
 # Tác Giả
 - Trên đây chỉ là 85% của modules, khuyết 15% cao cấp hơn nhé.
