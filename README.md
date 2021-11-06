@@ -39,7 +39,7 @@
 - **locmem** - Lọc mem theo hình thức reply số thứ tự ( 0 tin nhắn và người dùng fb) : [commands/locmem.js](modules/commands/locmem.js)
 
 # Tác Giả
-- Trên đây chỉ là 85% của modules, khuyết 15% cao cấp hơn nhé.
+- Trên đây chỉ là 85% của modules.
 - **ManhG** - [GitHub](https://github.com/manhkhac) - [Facebook](https://www.facebook.com/manhict)
 
 # License
