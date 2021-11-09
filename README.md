@@ -26,7 +26,7 @@
 - **allbox** - Xem tất cả nhóm[data] đã tham gia(phân trang), bạn có thể reply theo số thự tự để ban, unban, out nhóm đó: [commands/allbox.js](modules/commands/allbox.js)
 - **listbox** - Xem tất cả nhóm hiện tại đã tham gia(phân trang), bạn có thể reply theo số thự tự để ban, unban, out nhóm đó: [commands/listbox.js](modules/commands/listbox.js)
 - **fixspam** - Chửi bot sẽ bị ban ngay tại thời điểm nói( lưu ý: Không sử dụng chung với modules chuibot ): [commands/fixspam.js](modules/commands/fixspam.js)
-- **ytbmp4** - Phát video thông qua link YouTube hoặc từ khoá tìm kiếm: [commands/ytbmp4.js](modules/commands/ytbmp4.js)
+- **video** - Phát video thông qua link YouTube hoặc từ khoá tìm kiếm: [commands/video.js](modules/commands/video.js)
 - **covid** - Lấy thông tin về tình hình dịch bệnh COVID-19 [K/D/A] : [commands/covid.js](modules/commands/covid.js)
 - **callad** - Fix get user/thread : [commands/callad.js](modules/commands/callad.js)
 - **resend** - Fix bật tắt version > 1.2.13 : [commands/resend.js](modules/commands/resend.js)
