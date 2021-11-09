@@ -46,7 +46,7 @@
 - **info** - Info fix get, fake giới tính : [commands/info.js](modules/commands/info.js)
 - **slink** - Lấy url rút gọn, download từ video, audio được gửi từ nhóm : [commands/slink.js](modules/commands/slink.js)
 - **hi** - Modules mẫu, bật/tắt, random ảnh : [commands/hi.js](modules/commands/hi.js)
-- **log** - Ghi lại thông báo các hoạt đông của bot, tự động ban khi bị kick : [events.js](modules/events/log.js)
+- **log** - Ghi lại thông báo các hoạt đông của bot, tự động ban khi bị kick : [log.js](modules/events/log.js)
 
 # Tác Giả
 - **ManhG** - [GitHub](https://github.com/manhkhac) - [Facebook](https://www.facebook.com/manhict)
