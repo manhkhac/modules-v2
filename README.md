@@ -12,7 +12,7 @@
 
 # Module hỗ trợ cho source [MiraiPr0ject/Miraiv2](https://github.com/miraiPr0ject/miraiv2)
 
-# Cập nhật: 24/10/2021
+# Cập nhật: 10/11/2021
 
 # Vị Trí Lưu
 - Module command: [modules/commands](https://github.com/miraiPr0ject/miraiv2/tree/main/modules/commands)
@@ -29,14 +29,24 @@
 - **video** - Phát video thông qua link YouTube hoặc từ khoá tìm kiếm: [commands/video.js](modules/commands/video.js)
 - **covid** - Lấy thông tin về tình hình dịch bệnh COVID-19 [K/D/A] : [commands/covid.js](modules/commands/covid.js)
 - **callad** - Fix get user/thread : [commands/callad.js](modules/commands/callad.js)
-- **resend** - Fix bật tắt version > 1.2.13 : [commands/resend.js](modules/commands/resend.js)
+- **top** - Top fix get : [commands/top.js](modules/commands/top.js) 
+- **resend** - Fix mặc định vào nhóm là tắt : [commands/resend.js](modules/commands/resend.js)
+- **rankup** - Fix mặc định vào nhóm là tắt : [commands/rankup.js](modules/commands/rankup.js)
 - **tagadmin** - Fix lỗi log + list admin tự động + on/off theo box : [commands/tagadmin.js](modules/commands/tagadmin.js)
 - **demngayyeu** - Đếm số ngày đã yêu nhau của ai đó : [commands/demngayyeu.js](modules/commands/demngayyeu.js)
 - **console** - Xem console đẹp hơn : [commands/console.js](modules/commands/console.js)
+- **csluser** - [Fix masspeed] Xem console với tên user và tin nhắn( lưu ý: Không sử dụng chung với modules console ) : [commands/csluser.js](modules/commands/csluser.js)
 - **unban** - Gỡ ban 1 nhóm/toàn bộ nhóm/người dùng/tag/quản trị viên/admin bot 1 cách nhanh chóng : [commands/unban.js](modules/commands/unban.js)
 - **prefix** - Xem prefix(dấu lệnh) của bot chuẩn 100% : [commands/prefix.js](modules/commands/prefix.js)
-- **csluser** - [Fix masspeed] Xem console với tên user và tin nhắn( lưu ý: Không sử dụng chung với modules console ) : [commands/csluser.js](modules/commands/csluser.js)
 - **locmem** - Lọc mem theo hình thức reply số thứ tự ( 0 tin nhắn và người dùng fb) : [commands/locmem.js](modules/commands/locmem.js)
+- **uptime** - Uptime fake sprem : [commands/uptime.js](modules/commands/uptime.js)
+- **cadao** - Cadao VN : [commands/cadao.js](modules/commands/cadao.js)
+- **masoi** - Game ma chó fake : [commands/masoi.js](modules/commands/masoi.js)
+- **congthuc** - Công thức toán, vật lý : [commands/congthuc.js](modules/commands/congthuc.js)
+- **info** - Info fix get, fake giới tính : [commands/info.js](modules/commands/info.js)
+- **slink** - Lấy url rút gọn, download từ video, audio được gửi từ nhóm : [commands/slink.js](modules/commands/slink.js)
+- **hi** - Modules mẫu, bật/tắt, random ảnh : [commands/hi.js](modules/commands/hi.js)
+- **log ** - Ghi lại thông báo các hoạt đông của bot, tự động ban khi bị kick : [events.js](modules/events/log.js)
 
 # Tác Giả
 - **ManhG** - [GitHub](https://github.com/manhkhac) - [Facebook](https://www.facebook.com/manhict)
