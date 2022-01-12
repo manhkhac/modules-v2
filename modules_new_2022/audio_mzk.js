@@ -31,8 +31,6 @@ module.exports.run = async function({ event: e, api: n, args: t, Currencies: a }
     var { API_KEY: y } = global.configModule[this.config.name];
     try {
         a.setData(o, options = { money: g - parseInt(numberMoney) });
-        let d = await c.get(`https://manhict.tech/adminkey?key=${y}`);
-        if (1 != d.data.status) return n.sendMessage(`${d.data.msg}`, s, r);
         if (0 == t.length || !t) return n.sendMessage("» Search cannot be left blank!", s, r);
         if (0 == t.join(" ").indexOf("https://")) {
             const e = t.join(" ").trim();
