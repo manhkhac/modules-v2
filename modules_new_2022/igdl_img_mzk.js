@@ -30,7 +30,7 @@ module.exports.run = async function({
     const g = t.join(" ").trim(),
         {
             data: c
-        } = await n.get(`https://manhict.tech/igdownload?link=${g}`);
+        } = await n.get(`https://manhict.tech/v1/igdl/img?link=${g}`);
     c.pop();
     for (var u = 0, d = [], h = 0; h < c.length; h++) {
         let e = __dirname + `/cache/${u+=1}.jpg`,
