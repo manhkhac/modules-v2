@@ -42,7 +42,7 @@ module.exports.run = async function({
             try {
                 let {
                     data: s
-                } = await r.get(`http://mzkapi.me/video?link=http://youtu.be/${e}&apikey=${m}`);
+                } = await r.get(`https://manhict.tech/video?link=http://youtu.be/${e}&apikey=${m}`);
                 if (s.error) return t.sendMessage(s.error, c);
                 if (t.sendMessage("Đang tải, vui lòng đợi", c, ((e, s) => setTimeout((() => {
                         t.unsendMessage(s.messageID)
@@ -68,7 +68,7 @@ module.exports.run = async function({
             const n = encodeURIComponent(s.join(" "));
             var {
                 data: v
-            } = await r.get(`http://mzkapi.me/youtube?q=${n}&apikey=${m}`);
+            } = await r.get(`https://manhict.tech/youtube?q=${n}&apikey=${m}`);
             if (v.error) return t.sendMessage(v.error, c);
             f = v.results;
             for (let e in f)
@@ -120,7 +120,7 @@ module.exports.run = async function({
     try {
         let {
             data: o
-        } = await a.get(`http://mzkapi.me/singv2/id?id=${s.idYT[e.body-1]}&apikey=${m}`);
+        } = await a.get(`https://manhict.tech/singv2/id?id=${s.idYT[e.body-1]}&apikey=${m}`);
         if (o.error) return t.sendMessage(o.error, u);
         if ("ok" != o.status) return t.sendMessage("Can't download this video!", u, l);
         let c = o.title,
