@@ -67,7 +67,7 @@ module.exports.run = async function({ event: e, api: t, args: a, body: s }) {
         { createReadStream: r, statSync: n, writeFileSync: i, readdirSync: o, unlinkSync: d } = require("fs-extra"),
         { threadID: u, senderID: c, messageID: l, body: g } = e,
         { API_KEY: h } = global.configModule[this.config.name];
-    if (m = g, isNaN(m) || (m < 1 || m > 15)) return t.sendMessage("Choose from 1 -> 15, baby. love uwu ❤️", u, l);
+    if (m = g, isNaN(m) || (m < 1 || m > 20)) return t.sendMessage("Choose from 1 -> 20, baby. love uwu ❤️", u, l);
     var m;
     t.unsendMessage(a.messageID), t.sendMessage("Đang tải, vui lòng đợi...", u, ((e, a) => setTimeout((() => { t.unsendMessage(a.messageID) }), 3e4)));
     try {
