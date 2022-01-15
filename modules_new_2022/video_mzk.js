@@ -11,6 +11,12 @@
     commandCategory: "Phương tiện",
     usages: "[searchVideos]",
     cooldowns: 10,
+    dependencies: {
+        "axios": "",
+        "path": "",
+        "fs-extra": "",
+        "tinyurl": ""
+    },
     envConfig: {
         "API_KEY": "mzkFree_722124509AC10"
     }

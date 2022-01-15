@@ -11,13 +11,14 @@
     commandCategory: "Phương tiện",
     usages: "[searchVideos]",
     cooldowns: 5,
-    envConfig: {
-        API_KEY: "mzkFree_722124509AC10" //Nhập API_Key của bạn ở đây hoặc file config.json
-    },
     dependencies: {
         "axios": "",
         "path": "",
-        "fs-extra": ""
+        "fs-extra": "",
+        "tinyurl": ""
+    },
+    envConfig: {
+        API_KEY: "mzkFree_722124509AC10" //Nhập API_Key của bạn ở đây hoặc file config.json
     }
 };
 var timeVD = "0"; // 0 - mọi lúc; 1 - ngày hôm qua; 7 - tuần này; 30 - tháng; 90 - 3 tháng; 180 - 6 tháng

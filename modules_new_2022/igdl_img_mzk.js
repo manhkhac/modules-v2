@@ -3,13 +3,19 @@
  * @warn Do not edit code or edit credits
  */
 module.exports.config = {
-    name: "igdl",
+    name: "igdlimg",
     version: "1.0.0",
     hasPermssion: 0,
     credits: "MạnhG",
     description: "Tìm kiếm hình ảnh",
     commandCategory: "Tiện ích",
     usages: "[Text]",
+    dependencies: {
+        "axios": "",
+        "path": "",
+        "fs-extra": "",
+        "tinyurl": ""
+    },
     cooldowns: 0,
 };
 module.exports.run = async function({ api, event, args }) {
