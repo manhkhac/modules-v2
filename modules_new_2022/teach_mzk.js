@@ -64,7 +64,7 @@ module.exports.handleReply = async({ api, event, Users, handleReply }) => {
             global.client.handleReply.splice(global.client.handleReply.indexOf(handleReply), 1);
             api.unsendMessage(handleReply.messageID);
             let c = content;
-            let res = await axios.get(encodeURI(`http://mzkapi.me/sim?type=teach&ask=${c.ask}&ans=${c.ans}&by=${by_name}&apikey=${API_KEY}`));
+            let res = await axios.get(encodeURI(`http://manhict.tech/sim?type=teach&ask=${c.ask}&ans=${c.ans}&by=${by_name}&apikey=${API_KEY}`));
             if (res.data.error) return send(`${res.data.error}`);
             send(`Dạy sim thành công, previews:\n\n🤤Data:\n${c.ask} -> ${c.ans}\n🙇‍♂️Người dạy sim:\n${by_name}\n⏱Time: ${timeZ}`);
             break;
